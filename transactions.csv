@@ -1,0 +1,2006 @@
+transaction_id,transaction_date,category,merchant,amount,payment_method,description
+T00001,2026-05-21,Transport,Uber,275.1,Card,Transportation expense
+T00002,2026-10-30,Transport,Uber,445.04,UPI,Transportation expense
+T00003,2026-04-30,Transport,Ola,525.14,UPI,Transportation expense
+T00004,2026-04-23,Bills,Water,1962.07,Cash,Monthly bill
+T00005,2026-12-24,Food,Zomato,553.33,Cash,Food expense
+T00006,2026-06-22,Shopping,Flipkart,1087.02,Net Banking,Shopping expense
+T00007,2026-06-26,Transport,Bus,619.58,UPI,Transportation expense
+T00008,2026-07-13,Travel,IRCTC,2103.2,Cash,Travel expense
+T00009,2026-12-27,Entertainment,Movie,266.93,Card,Entertainment expense
+T00010,2026-04-30,Education,College,4359.12,Net Banking,Education expense
+T00011,2026-11-22,Education,Coursera,4203.73,Card,Education expense
+T00012,2026-04-18,Entertainment,Spotify,1708.42,UPI,Entertainment expense
+T00013,2026-03-25,Shopping,Flipkart,3859.4,Cash,Shopping expense
+T00014,2026-01-29,Bills,Mobile,1147.48,UPI,Monthly bill
+T00015,2026-05-18,Entertainment,Games,258.85,Cash,Entertainment expense
+T00016,2026-07-22,Bills,Water,3573.33,Net Banking,Monthly bill
+T00017,2026-03-13,Shopping,Myntra,2199.03,Cash,Shopping expense
+T00018,2026-07-24,Healthcare,Clinic,2299.58,Card,Healthcare expense
+T00019,2026-01-25,Travel,IRCTC,13055.44,Card,Travel expense
+T00020,2026-11-02,Shopping,Local Store,789.16,Net Banking,Shopping expense
+T00021,2026-10-11,Travel,Hotel,13050.92,UPI,Travel expense
+T00022,2026-11-25,Transport,Bus,366.57,Cash,Transportation expense
+T00023,2026-08-21,Healthcare,Pharmacy,218.82,Cash,Healthcare expense
+T00024,2026-11-17,Shopping,Amazon,2598.02,Card,Shopping expense
+T00025,2026-03-24,Shopping,Myntra,4453.22,UPI,Shopping expense
+T00026,2026-01-10,Entertainment,Games,368.48,Cash,Entertainment expense
+T00027,2026-01-30,Education,Udemy,1356.18,UPI,Education expense
+T00028,2026-02-05,Transport,Petrol,978.87,Card,Transportation expense
+T00029,2026-10-09,Shopping,Local Store,1571.48,Net Banking,Shopping expense
+T00030,2026-06-09,Bills,Internet,1776.27,Cash,Monthly bill
+T00031,2026-03-03,Travel,Travel Agency,4470.68,UPI,Travel expense
+T00032,2026-10-29,Entertainment,Netflix,1429.41,Card,Entertainment expense
+T00033,2026-12-29,Food,Swiggy,786.84,Card,Food expense
+T00034,2026-06-19,Transport,Uber,108.02,Card,Transportation expense
+T00035,2026-04-20,Education,Coursera,2788.32,Net Banking,Education expense
+T00036,2026-07-28,Bills,Water,1004.52,UPI,Monthly bill
+T00037,2026-08-05,Healthcare,Hospital,2584.39,UPI,Healthcare expense
+T00038,2026-07-26,Transport,Uber,739.09,UPI,Transportation expense
+T00039,2026-04-08,Bills,Internet,2284.26,Card,Monthly bill
+T00040,2026-05-23,Healthcare,Pharmacy,2883.24,UPI,Healthcare expense
+T00041,2026-01-26,Travel,IRCTC,10130.03,UPI,Travel expense
+T00042,2026-03-27,Transport,Ola,430.16,Net Banking,Transportation expense
+T00043,2026-01-31,Bills,Water,909.16,UPI,Monthly bill
+T00044,2026-08-21,Healthcare,Hospital,1854.45,Net Banking,Healthcare expense
+T00045,2026-06-01,Shopping,Flipkart,1976.3,UPI,Shopping expense
+T00046,2026-01-30,Food,Restaurant,136.16,Net Banking,Food expense
+T00047,2026-09-18,Shopping,Amazon,916.86,Card,Shopping expense
+T00048,2026-12-12,Transport,Uber,867.35,Net Banking,Transportation expense
+T00049,2026-10-24,Transport,Ola,610.74,UPI,Transportation expense
+T00050,2026-10-26,Healthcare,Clinic,3478.32,Cash,Healthcare expense
+T00051,2026-12-09,Education,Udemy,3637.72,Card,Education expense
+T00052,2026-03-09,Education,Coursera,3424.11,Cash,Education expense
+T00053,2026-02-07,Travel,Hotel,1130.42,UPI,Travel expense
+T00054,2026-09-17,Transport,Ola,294.59,Cash,Transportation expense
+T00055,2026-07-09,Transport,Ola,313.59,Net Banking,Transportation expense
+T00056,2026-12-08,Education,College,4122.1,Cash,Education expense
+T00057,2026-05-16,Transport,Ola,150.81,UPI,Transportation expense
+T00058,2026-05-25,Shopping,Myntra,4957.19,Cash,Shopping expense
+T00059,2026-09-16,Bills,Mobile,2107.57,UPI,Monthly bill
+T00060,2026-05-22,Transport,Petrol,82.32,Cash,Transportation expense
+T00061,2026-03-24,Shopping,Myntra,6007.48,Net Banking,Shopping expense
+T00062,2026-02-08,Food,Swiggy,1138.46,Card,Food expense
+T00063,2026-10-26,Food,Restaurant,698.83,Net Banking,Food expense
+T00064,2026-06-07,Shopping,Amazon,3107.82,UPI,Shopping expense
+T00065,2026-12-16,Entertainment,Movie,698.87,UPI,Entertainment expense
+T00066,2026-11-14,Entertainment,Games,1898.75,Card,Entertainment expense
+T00067,2026-07-31,Shopping,Flipkart,490.85,Cash,Shopping expense
+T00068,2026-05-08,Healthcare,Clinic,1747.47,UPI,Healthcare expense
+T00069,2026-08-29,Healthcare,Pharmacy,1490.12,Net Banking,Healthcare expense
+T00070,2026-04-27,Entertainment,Spotify,635.02,Card,Entertainment expense
+T00071,2026-05-23,Healthcare,Hospital,5213.25,Cash,Healthcare expense
+T00072,2026-12-14,Entertainment,Games,2454.76,Cash,Entertainment expense
+T00073,2026-05-14,Food,Swiggy,280.0,Cash,Food expense
+T00074,2026-11-02,Food,Swiggy,566.71,Cash,Food expense
+T00075,2026-09-19,Healthcare,Clinic,870.75,Card,Healthcare expense
+T00076,2026-12-29,Education,College,2293.08,Card,Education expense
+T00077,2026-02-05,Entertainment,Games,2377.3,Cash,Entertainment expense
+T00078,2026-06-03,Entertainment,Netflix,1317.09,Net Banking,Entertainment expense
+T00079,2026-12-23,Entertainment,Games,809.57,Card,Entertainment expense
+T00080,2026-12-07,Bills,Water,3779.35,Card,Monthly bill
+T00081,2026-10-08,Education,Coursera,4201.88,Cash,Education expense
+T00082,2026-08-09,Education,Udemy,3971.64,Cash,Education expense
+T00083,2026-08-15,Travel,Travel Agency,10458.78,Net Banking,Travel expense
+T00084,2026-05-26,Shopping,Amazon,4268.98,Cash,Shopping expense
+T00085,2026-12-11,Transport,Ola,338.0,Card,Transportation expense
+T00086,2026-01-24,Shopping,Amazon,2185.29,Net Banking,Shopping expense
+T00087,2026-08-01,Transport,Petrol,890.69,Card,Transportation expense
+T00088,2026-07-24,Healthcare,Hospital,1615.11,UPI,Healthcare expense
+T00089,2026-04-23,Transport,Petrol,208.85,Net Banking,Transportation expense
+T00090,2026-03-04,Food,Zomato,591.24,Net Banking,Food expense
+T00091,2026-11-10,Entertainment,Games,2056.02,Net Banking,Entertainment expense
+T00092,2026-09-01,Travel,Flight,7300.98,Card,Travel expense
+T00093,2026-11-17,Education,Coursera,1348.38,Net Banking,Education expense
+T00094,2026-05-01,Transport,Bus,300.85,Cash,Transportation expense
+T00095,2026-03-19,Transport,Ola,262.01,Card,Transportation expense
+T00096,2026-08-01,Bills,Electricity,1808.12,Net Banking,Monthly bill
+T00097,2026-04-16,Healthcare,Pharmacy,5030.77,Net Banking,Healthcare expense
+T00098,2026-09-02,Food,Cafe,86.6,Cash,Food expense
+T00099,2026-08-03,Education,Coursera,2783.46,Card,Education expense
+T00100,2026-05-20,Travel,Flight,7101.7,UPI,Travel expense
+T00101,2026-12-09,Healthcare,Hospital,4139.02,Net Banking,Healthcare expense
+T00102,2026-03-07,Shopping,Local Store,7851.56,UPI,Shopping expense
+T00103,2026-10-16,Healthcare,Clinic,4045.4,UPI,Healthcare expense
+T00104,2026-08-25,Healthcare,Pharmacy,1254.03,Cash,Healthcare expense
+T00105,2026-04-19,Healthcare,Hospital,2837.26,Cash,Healthcare expense
+T00106,2026-08-04,Healthcare,Hospital,1663.17,UPI,Healthcare expense
+T00107,2026-10-04,Travel,IRCTC,1729.2,Cash,Travel expense
+T00108,2026-11-30,Bills,Electricity,448.96,UPI,Monthly bill
+T00109,2026-01-11,Bills,Internet,2598.94,Card,Monthly bill
+T00110,2026-12-09,Shopping,Local Store,1180.8,Card,Shopping expense
+T00111,2026-07-08,Travel,Hotel,3349.05,UPI,Travel expense
+T00112,2026-02-25,Shopping,Myntra,4755.87,Cash,Shopping expense
+T00113,2026-04-12,Healthcare,Hospital,640.78,Card,Healthcare expense
+T00114,2026-12-17,Transport,Bus,616.4,UPI,Transportation expense
+T00115,2026-09-30,Food,Restaurant,559.78,Cash,Food expense
+T00116,2026-01-07,Transport,Bus,855.59,Net Banking,Transportation expense
+T00117,2026-07-05,Transport,Petrol,650.16,Net Banking,Transportation expense
+T00118,2026-04-01,Shopping,Local Store,5950.22,Cash,Shopping expense
+T00119,2026-08-12,Travel,Travel Agency,12560.28,Cash,Travel expense
+T00120,2026-02-14,Entertainment,Movie,769.43,Net Banking,Entertainment expense
+T00121,2026-10-19,Bills,Water,2558.23,Net Banking,Monthly bill
+T00122,2026-09-11,Entertainment,Netflix,2142.29,Card,Entertainment expense
+T00123,2026-07-01,Travel,Flight,12169.65,Cash,Travel expense
+T00124,2026-10-12,Education,Book Store,248.73,Card,Education expense
+T00125,2026-07-28,Transport,Ola,509.03,Card,Transportation expense
+T00126,2026-08-18,Travel,Travel Agency,12101.06,UPI,Travel expense
+T00127,2026-07-27,Education,Udemy,3520.58,Cash,Education expense
+T00128,2026-10-11,Entertainment,Games,1374.21,Net Banking,Entertainment expense
+T00129,2026-12-26,Entertainment,Spotify,1188.99,Cash,Entertainment expense
+T00130,2026-03-03,Education,Udemy,3662.16,Cash,Education expense
+T00131,2026-04-09,Transport,Ola,247.73,Net Banking,Transportation expense
+T00132,2026-02-21,Education,Book Store,4196.62,Cash,Education expense
+T00133,2026-04-02,Bills,Mobile,1418.39,Card,Monthly bill
+T00134,2026-01-28,Education,College,2856.12,Card,Education expense
+T00135,2026-01-07,Travel,IRCTC,9036.9,Net Banking,Travel expense
+T00136,2026-06-24,Travel,Travel Agency,3581.09,UPI,Travel expense
+T00137,2026-02-28,Education,Coursera,4146.16,Net Banking,Education expense
+T00138,2026-10-23,Travel,IRCTC,9812.24,UPI,Travel expense
+T00139,2026-10-16,Shopping,Flipkart,7608.27,UPI,Shopping expense
+T00140,2026-10-13,Bills,Electricity,3128.44,Card,Monthly bill
+T00141,2026-08-15,Healthcare,Hospital,1924.65,Net Banking,Healthcare expense
+T00142,2026-11-09,Education,College,4808.52,UPI,Education expense
+T00143,2026-05-16,Bills,Internet,2743.58,Card,Monthly bill
+T00144,2026-10-10,Bills,Internet,577.74,UPI,Monthly bill
+T00145,2026-12-19,Healthcare,Hospital,3644.1,Cash,Healthcare expense
+T00146,2026-05-28,Food,Zomato,871.79,Net Banking,Food expense
+T00147,2026-05-16,Transport,Ola,796.31,Card,Transportation expense
+T00148,2026-10-06,Healthcare,Pharmacy,1503.89,Card,Healthcare expense
+T00149,2026-02-06,Education,Udemy,486.26,Cash,Education expense
+T00150,2026-03-05,Education,Coursera,2449.75,Cash,Education expense
+T00151,2026-09-14,Healthcare,Hospital,3331.89,Net Banking,Healthcare expense
+T00152,2026-08-10,Transport,Uber,745.15,Cash,Transportation expense
+T00153,2026-04-28,Food,Swiggy,1157.34,UPI,Food expense
+T00154,2026-03-31,Education,College,2458.4,Net Banking,Education expense
+T00155,2026-10-27,Education,Udemy,2292.25,Net Banking,Education expense
+T00156,2026-06-28,Transport,Petrol,432.01,Cash,Transportation expense
+T00157,2026-06-18,Transport,Ola,435.18,Net Banking,Transportation expense
+T00158,2026-10-09,Education,Coursera,376.15,UPI,Education expense
+T00159,2026-06-15,Entertainment,Spotify,378.21,Net Banking,Entertainment expense
+T00160,2026-07-31,Food,Cafe,140.71,Cash,Food expense
+T00161,2026-01-27,Travel,Travel Agency,3849.82,Card,Travel expense
+T00162,2026-12-24,Education,Coursera,2526.62,UPI,Education expense
+T00163,2026-06-09,Bills,Internet,2338.1,Net Banking,Monthly bill
+T00164,2026-02-28,Transport,Ola,482.99,UPI,Transportation expense
+T00165,2026-05-30,Shopping,Local Store,4218.31,Cash,Shopping expense
+T00166,2026-08-30,Healthcare,Hospital,1613.64,Card,Healthcare expense
+T00167,2026-11-03,Healthcare,Pharmacy,3147.8,Card,Healthcare expense
+T00168,2026-08-01,Transport,Bus,366.28,Cash,Transportation expense
+T00169,2026-06-02,Food,Restaurant,1017.97,Net Banking,Food expense
+T00170,2026-10-03,Shopping,Local Store,4029.43,Cash,Shopping expense
+T00171,2026-06-14,Healthcare,Hospital,5243.69,Card,Healthcare expense
+T00172,2026-07-30,Healthcare,Pharmacy,453.15,Net Banking,Healthcare expense
+T00173,2026-12-06,Healthcare,Hospital,4795.88,Card,Healthcare expense
+T00174,2026-03-06,Travel,IRCTC,8032.08,Cash,Travel expense
+T00175,2026-02-21,Transport,Petrol,544.91,Net Banking,Transportation expense
+T00176,2026-07-29,Food,Zomato,1055.44,Card,Food expense
+T00177,2026-05-16,Transport,Petrol,365.02,Net Banking,Transportation expense
+T00178,2026-12-12,Transport,Bus,864.97,Net Banking,Transportation expense
+T00179,2026-10-05,Entertainment,Games,186.16,UPI,Entertainment expense
+T00180,2026-04-27,Bills,Mobile,3063.04,Net Banking,Monthly bill
+T00181,2026-08-16,Transport,Uber,199.71,Cash,Transportation expense
+T00182,2026-06-16,Food,Swiggy,971.68,Cash,Food expense
+T00183,2026-08-09,Entertainment,Spotify,449.37,Net Banking,Entertainment expense
+T00184,2026-03-31,Shopping,Flipkart,908.06,Net Banking,Shopping expense
+T00185,2026-10-26,Bills,Water,829.54,Net Banking,Monthly bill
+T00186,2026-05-11,Education,Coursera,3400.84,Net Banking,Education expense
+T00187,2026-02-07,Education,Udemy,2320.3,Cash,Education expense
+T00188,2026-12-20,Education,Coursera,1400.47,Cash,Education expense
+T00189,2026-09-05,Bills,Water,694.62,Net Banking,Monthly bill
+T00190,2026-12-25,Entertainment,Spotify,808.55,Net Banking,Entertainment expense
+T00191,2026-10-17,Education,College,4352.32,UPI,Education expense
+T00192,2026-04-28,Travel,Hotel,9498.91,Cash,Travel expense
+T00193,2026-11-14,Bills,Internet,1227.32,Card,Monthly bill
+T00194,2026-06-08,Transport,Uber,797.07,UPI,Transportation expense
+T00195,2026-02-16,Entertainment,Movie,2283.11,Cash,Entertainment expense
+T00196,2026-04-13,Healthcare,Pharmacy,966.53,Cash,Healthcare expense
+T00197,2026-05-12,Education,Udemy,4587.43,Net Banking,Education expense
+T00198,2026-02-28,Education,Book Store,2447.99,UPI,Education expense
+T00199,2026-12-13,Shopping,Flipkart,5876.47,Net Banking,Shopping expense
+T00200,2026-07-22,Entertainment,Netflix,133.4,UPI,Entertainment expense
+T00201,2026-12-11,Travel,Hotel,11486.16,Cash,Travel expense
+T00202,2026-07-10,Healthcare,Clinic,828.41,Card,Healthcare expense
+T00203,2026-11-14,Travel,IRCTC,13379.29,Cash,Travel expense
+T00204,2026-11-22,Bills,Electricity,3348.26,Cash,Monthly bill
+T00205,2026-03-13,Healthcare,Pharmacy,463.01,UPI,Healthcare expense
+T00206,2026-03-01,Education,Coursera,666.52,Card,Education expense
+T00207,2026-07-09,Healthcare,Hospital,4088.82,Net Banking,Healthcare expense
+T00208,2026-12-02,Shopping,Local Store,1062.47,Net Banking,Shopping expense
+T00209,2026-01-17,Healthcare,Hospital,4203.63,Card,Healthcare expense
+T00210,2026-05-01,Travel,Travel Agency,12976.3,UPI,Travel expense
+T00211,2026-02-01,Entertainment,Spotify,1055.54,Card,Entertainment expense
+T00212,2026-02-16,Transport,Petrol,676.26,UPI,Transportation expense
+T00213,2026-05-05,Food,Restaurant,1187.48,Card,Food expense
+T00214,2026-10-28,Transport,Ola,247.31,Card,Transportation expense
+T00215,2026-11-02,Entertainment,Movie,106.81,Card,Entertainment expense
+T00216,2026-03-31,Shopping,Myntra,1146.43,UPI,Shopping expense
+T00217,2026-07-03,Shopping,Amazon,6382.88,Card,Shopping expense
+T00218,2026-03-31,Entertainment,Netflix,736.88,Card,Entertainment expense
+T00219,2026-02-28,Healthcare,Clinic,4524.86,Net Banking,Healthcare expense
+T00220,2026-09-20,Travel,Hotel,9311.32,Net Banking,Travel expense
+T00221,2026-12-04,Bills,Electricity,2229.37,Net Banking,Monthly bill
+T00222,2026-09-03,Food,Swiggy,1028.97,Net Banking,Food expense
+T00223,2026-12-31,Transport,Petrol,913.31,UPI,Transportation expense
+T00224,2026-11-08,Transport,Bus,182.4,Card,Transportation expense
+T00225,2026-07-15,Education,Book Store,4974.21,Cash,Education expense
+T00226,2026-02-20,Travel,Travel Agency,12103.35,UPI,Travel expense
+T00227,2026-08-20,Bills,Water,3585.94,Net Banking,Monthly bill
+T00228,2026-07-24,Entertainment,Games,1098.38,UPI,Entertainment expense
+T00229,2026-06-10,Entertainment,Games,1696.26,Cash,Entertainment expense
+T00230,2026-02-04,Shopping,Local Store,1002.43,UPI,Shopping expense
+T00231,2026-02-19,Transport,Petrol,754.81,Cash,Transportation expense
+T00232,2026-10-28,Shopping,Amazon,7666.01,Cash,Shopping expense
+T00233,2026-07-01,Transport,Petrol,878.66,Net Banking,Transportation expense
+T00234,2026-11-04,Food,Restaurant,429.94,UPI,Food expense
+T00235,2026-12-03,Bills,Internet,2084.1,UPI,Monthly bill
+T00236,2026-02-28,Entertainment,Spotify,1930.25,Card,Entertainment expense
+T00237,2026-11-15,Healthcare,Clinic,3758.73,UPI,Healthcare expense
+T00238,2026-04-03,Education,College,1511.7,Cash,Education expense
+T00239,2026-01-04,Entertainment,Spotify,535.37,Card,Entertainment expense
+T00240,2026-03-14,Healthcare,Pharmacy,4497.62,UPI,Healthcare expense
+T00241,2026-07-12,Transport,Ola,443.04,Cash,Transportation expense
+T00242,2026-06-09,Shopping,Myntra,5856.29,UPI,Shopping expense
+T00243,2026-03-22,Food,Zomato,924.97,UPI,Food expense
+T00244,2026-08-15,Transport,Bus,675.46,Net Banking,Transportation expense
+T00245,2026-05-20,Travel,Travel Agency,4017.97,UPI,Travel expense
+T00246,2026-02-26,Entertainment,Games,779.79,Net Banking,Entertainment expense
+T00247,2026-04-23,Education,College,2097.26,UPI,Education expense
+T00248,2026-06-04,Food,Zomato,1138.76,Card,Food expense
+T00249,2026-06-17,Education,Book Store,775.92,Net Banking,Education expense
+T00250,2026-03-08,Healthcare,Pharmacy,2405.2,Card,Healthcare expense
+T00251,2026-07-23,Entertainment,Netflix,2168.23,UPI,Entertainment expense
+T00252,2026-08-24,Healthcare,Pharmacy,5542.74,Cash,Healthcare expense
+T00253,2026-07-27,Healthcare,Clinic,4315.09,Net Banking,Healthcare expense
+T00254,2026-07-27,Education,College,300.11,Cash,Education expense
+T00255,2026-12-20,Shopping,Local Store,7382.23,UPI,Shopping expense
+T00256,2026-05-05,Healthcare,Pharmacy,2726.92,Net Banking,Healthcare expense
+T00257,2026-06-08,Transport,Petrol,755.97,Card,Transportation expense
+T00258,2026-02-09,Entertainment,Movie,1325.16,UPI,Entertainment expense
+T00259,2026-06-29,Bills,Mobile,2991.3,Card,Monthly bill
+T00260,2026-03-16,Bills,Electricity,1247.08,Card,Monthly bill
+T00261,2026-04-01,Shopping,Amazon,7624.95,Net Banking,Shopping expense
+T00262,2026-12-15,Travel,Travel Agency,13938.16,Cash,Travel expense
+T00263,2026-08-14,Entertainment,Movie,263.89,Net Banking,Entertainment expense
+T00264,2026-10-30,Education,Book Store,469.63,UPI,Education expense
+T00265,2026-08-20,Education,Coursera,380.51,Cash,Education expense
+T00266,2026-11-27,Education,College,4348.4,UPI,Education expense
+T00267,2026-10-25,Healthcare,Hospital,3415.03,UPI,Healthcare expense
+T00268,2026-06-14,Travel,Flight,9470.08,Card,Travel expense
+T00269,2026-02-22,Food,Cafe,988.28,Cash,Food expense
+T00270,2026-01-21,Transport,Ola,277.83,Net Banking,Transportation expense
+T00271,2026-07-06,Travel,Flight,6219.93,Cash,Travel expense
+T00272,2026-06-23,Healthcare,Hospital,4137.61,UPI,Healthcare expense
+T00273,2026-06-18,Entertainment,Netflix,326.81,Net Banking,Entertainment expense
+T00274,2026-12-03,Education,Book Store,4829.17,Card,Education expense
+T00275,2026-10-26,Entertainment,Netflix,1692.67,Cash,Entertainment expense
+T00276,2026-03-08,Education,Coursera,3056.2,UPI,Education expense
+T00277,2026-11-26,Education,Coursera,3999.98,Card,Education expense
+T00278,2026-09-18,Transport,Petrol,387.35,Cash,Transportation expense
+T00279,2026-04-20,Education,Udemy,1840.32,Net Banking,Education expense
+T00280,2026-03-12,Bills,Internet,873.3,Cash,Monthly bill
+T00281,2026-12-05,Transport,Uber,363.29,Card,Transportation expense
+T00282,2026-03-25,Healthcare,Pharmacy,1248.91,Card,Healthcare expense
+T00283,2026-07-30,Travel,IRCTC,6100.19,Card,Travel expense
+T00284,2026-08-18,Travel,Hotel,4276.04,Card,Travel expense
+T00285,2026-04-10,Education,Coursera,1965.64,Net Banking,Education expense
+T00286,2026-07-15,Travel,Hotel,8040.69,Net Banking,Travel expense
+T00287,2026-11-06,Shopping,Flipkart,1365.67,Cash,Shopping expense
+T00288,2026-07-10,Food,Cafe,701.09,UPI,Food expense
+T00289,2026-02-12,Transport,Bus,772.59,Cash,Transportation expense
+T00290,2026-08-12,Travel,Flight,2283.99,Card,Travel expense
+T00291,2026-01-14,Travel,Hotel,6808.56,Net Banking,Travel expense
+T00292,2026-07-17,Entertainment,Movie,2486.86,Cash,Entertainment expense
+T00293,2026-06-13,Bills,Electricity,3744.06,Cash,Monthly bill
+T00294,2026-01-20,Shopping,Flipkart,2508.97,Net Banking,Shopping expense
+T00295,2026-08-18,Shopping,Local Store,5038.18,UPI,Shopping expense
+T00296,2026-04-21,Food,Restaurant,1015.16,Net Banking,Food expense
+T00297,2026-05-02,Transport,Bus,329.11,UPI,Transportation expense
+T00298,2026-11-24,Bills,Water,3237.43,Net Banking,Monthly bill
+T00299,2026-09-13,Transport,Uber,612.87,UPI,Transportation expense
+T00300,2026-05-30,Bills,Internet,1888.18,Cash,Monthly bill
+T00301,2026-04-06,Bills,Water,2758.17,UPI,Monthly bill
+T00302,2026-09-27,Entertainment,Netflix,1405.8,UPI,Entertainment expense
+T00303,2026-01-23,Healthcare,Hospital,3886.89,Cash,Healthcare expense
+T00304,2026-07-02,Education,College,3984.9,Cash,Education expense
+T00305,2026-10-25,Bills,Electricity,3020.19,Cash,Monthly bill
+T00306,2026-06-30,Shopping,Amazon,4504.31,Card,Shopping expense
+T00307,2026-11-20,Travel,Travel Agency,3551.89,Card,Travel expense
+T00308,2026-01-19,Transport,Petrol,321.7,UPI,Transportation expense
+T00309,2026-06-11,Bills,Electricity,3753.47,Net Banking,Monthly bill
+T00310,2026-01-19,Travel,Hotel,11546.07,Card,Travel expense
+T00311,2026-01-25,Education,Book Store,4355.83,Cash,Education expense
+T00312,2026-07-08,Education,College,2297.37,Net Banking,Education expense
+T00313,2026-06-23,Travel,Travel Agency,14632.13,Net Banking,Travel expense
+T00314,2026-09-23,Travel,Hotel,4734.09,UPI,Travel expense
+T00315,2026-08-09,Healthcare,Pharmacy,3694.23,Card,Healthcare expense
+T00316,2026-02-22,Education,Book Store,584.33,Cash,Education expense
+T00317,2026-11-05,Education,Coursera,3644.78,Card,Education expense
+T00318,2026-08-17,Travel,Hotel,1592.97,Cash,Travel expense
+T00319,2026-11-24,Healthcare,Hospital,5884.16,UPI,Healthcare expense
+T00320,2026-07-06,Transport,Petrol,532.56,Card,Transportation expense
+T00321,2026-11-08,Food,Zomato,839.46,Net Banking,Food expense
+T00322,2026-02-04,Food,Zomato,344.31,Cash,Food expense
+T00323,2026-10-18,Entertainment,Games,177.72,Card,Entertainment expense
+T00324,2026-07-10,Travel,Hotel,7215.15,UPI,Travel expense
+T00325,2026-07-23,Shopping,Myntra,2720.77,Cash,Shopping expense
+T00326,2026-01-14,Bills,Electricity,3022.0,Net Banking,Monthly bill
+T00327,2026-03-02,Healthcare,Clinic,1718.3,Cash,Healthcare expense
+T00328,2026-11-10,Travel,Flight,4998.08,Net Banking,Travel expense
+T00329,2026-03-11,Bills,Electricity,3455.46,Net Banking,Monthly bill
+T00330,2026-02-14,Shopping,Local Store,6540.95,Cash,Shopping expense
+T00331,2026-10-09,Entertainment,Netflix,1401.21,Cash,Entertainment expense
+T00332,2026-07-05,Shopping,Flipkart,4217.42,UPI,Shopping expense
+T00333,2026-05-02,Bills,Internet,3224.38,UPI,Monthly bill
+T00334,2026-08-28,Entertainment,Spotify,2028.79,Card,Entertainment expense
+T00335,2026-06-08,Transport,Uber,422.23,Net Banking,Transportation expense
+T00336,2026-10-22,Healthcare,Hospital,627.75,Cash,Healthcare expense
+T00337,2026-08-27,Transport,Petrol,692.9,Cash,Transportation expense
+T00338,2026-03-08,Shopping,Flipkart,3631.16,UPI,Shopping expense
+T00339,2026-06-05,Transport,Ola,198.07,Cash,Transportation expense
+T00340,2026-09-23,Bills,Mobile,3611.23,UPI,Monthly bill
+T00341,2026-11-22,Education,Udemy,4790.49,Cash,Education expense
+T00342,2026-11-11,Shopping,Myntra,4407.78,Card,Shopping expense
+T00343,2026-12-04,Shopping,Flipkart,5108.49,Cash,Shopping expense
+T00344,2026-02-11,Food,Swiggy,130.92,Cash,Food expense
+T00345,2026-11-13,Bills,Water,2664.27,Net Banking,Monthly bill
+T00346,2026-09-05,Education,Book Store,1375.41,Net Banking,Education expense
+T00347,2026-02-07,Education,Coursera,3505.35,Card,Education expense
+T00348,2026-09-05,Travel,Travel Agency,7502.19,Cash,Travel expense
+T00349,2026-06-13,Shopping,Myntra,5953.34,Cash,Shopping expense
+T00350,2026-07-09,Healthcare,Pharmacy,3186.88,UPI,Healthcare expense
+T00351,2026-08-27,Entertainment,Movie,394.05,Net Banking,Entertainment expense
+T00352,2026-02-19,Bills,Internet,487.24,Net Banking,Monthly bill
+T00353,2026-03-23,Healthcare,Pharmacy,4918.17,Cash,Healthcare expense
+T00354,2026-09-13,Bills,Internet,3985.09,Net Banking,Monthly bill
+T00355,2026-09-12,Travel,Hotel,1324.47,Net Banking,Travel expense
+T00356,2026-04-21,Travel,Flight,9166.82,UPI,Travel expense
+T00357,2026-09-11,Food,Restaurant,749.22,Net Banking,Food expense
+T00358,2026-02-25,Education,College,2268.45,Cash,Education expense
+T00359,2026-07-07,Entertainment,Games,208.58,UPI,Entertainment expense
+T00360,2026-10-11,Bills,Mobile,1367.83,Net Banking,Monthly bill
+T00361,2026-11-16,Travel,Hotel,10525.58,UPI,Travel expense
+T00362,2026-07-21,Shopping,Amazon,3173.63,Cash,Shopping expense
+T00363,2026-04-12,Entertainment,Movie,1545.91,Net Banking,Entertainment expense
+T00364,2026-01-20,Food,Swiggy,233.48,Cash,Food expense
+T00365,2026-03-18,Travel,Travel Agency,9487.65,Card,Travel expense
+T00366,2026-03-25,Entertainment,Spotify,1043.09,Cash,Entertainment expense
+T00367,2026-12-29,Entertainment,Games,1451.02,Net Banking,Entertainment expense
+T00368,2026-06-19,Food,Restaurant,834.66,Net Banking,Food expense
+T00369,2026-11-02,Education,College,2478.03,Card,Education expense
+T00370,2026-03-29,Food,Cafe,667.14,Net Banking,Food expense
+T00371,2026-01-17,Shopping,Flipkart,4708.79,UPI,Shopping expense
+T00372,2026-08-14,Bills,Electricity,1460.66,Card,Monthly bill
+T00373,2026-04-15,Healthcare,Clinic,2580.19,Net Banking,Healthcare expense
+T00374,2026-09-23,Food,Zomato,312.22,Cash,Food expense
+T00375,2026-06-10,Travel,Travel Agency,14393.6,Net Banking,Travel expense
+T00376,2026-12-13,Entertainment,Spotify,1952.78,Cash,Entertainment expense
+T00377,2026-05-07,Travel,Flight,4906.09,Cash,Travel expense
+T00378,2026-05-28,Bills,Mobile,2908.13,Net Banking,Monthly bill
+T00379,2026-06-28,Entertainment,Games,1445.17,Cash,Entertainment expense
+T00380,2026-10-21,Education,College,3447.79,Net Banking,Education expense
+T00381,2026-03-16,Healthcare,Hospital,1884.63,Cash,Healthcare expense
+T00382,2026-08-15,Transport,Bus,669.73,Net Banking,Transportation expense
+T00383,2026-10-03,Bills,Internet,1303.19,Cash,Monthly bill
+T00384,2026-11-12,Shopping,Amazon,6004.86,Card,Shopping expense
+T00385,2026-12-09,Bills,Electricity,3649.18,Card,Monthly bill
+T00386,2026-02-21,Bills,Electricity,1829.22,Net Banking,Monthly bill
+T00387,2026-01-03,Transport,Ola,965.94,Card,Transportation expense
+T00388,2026-09-01,Healthcare,Clinic,2969.2,Card,Healthcare expense
+T00389,2026-05-27,Education,Book Store,3300.31,UPI,Education expense
+T00390,2026-03-31,Bills,Electricity,1846.17,Card,Monthly bill
+T00391,2026-09-11,Food,Cafe,288.67,Cash,Food expense
+T00392,2026-06-02,Food,Swiggy,716.12,UPI,Food expense
+T00393,2026-08-21,Entertainment,Spotify,2473.84,Net Banking,Entertainment expense
+T00394,2026-05-20,Shopping,Local Store,1784.65,UPI,Shopping expense
+T00395,2026-08-23,Entertainment,Movie,1655.88,Card,Entertainment expense
+T00396,2026-06-01,Food,Restaurant,715.91,Card,Food expense
+T00397,2026-08-07,Shopping,Local Store,4267.66,UPI,Shopping expense
+T00398,2026-02-18,Healthcare,Clinic,1271.73,Card,Healthcare expense
+T00399,2026-05-08,Travel,Hotel,1095.62,Net Banking,Travel expense
+T00400,2026-05-17,Bills,Water,3829.93,Cash,Monthly bill
+T00401,2026-12-01,Food,Restaurant,482.7,Card,Food expense
+T00402,2026-08-27,Food,Swiggy,423.62,Net Banking,Food expense
+T00403,2026-11-24,Education,College,4597.43,Cash,Education expense
+T00404,2026-04-23,Entertainment,Movie,2397.67,Net Banking,Entertainment expense
+T00405,2026-11-07,Shopping,Local Store,3176.91,Net Banking,Shopping expense
+T00406,2026-12-15,Bills,Internet,3092.54,UPI,Monthly bill
+T00407,2026-02-09,Travel,Hotel,13841.43,UPI,Travel expense
+T00408,2026-10-21,Food,Zomato,681.06,Card,Food expense
+T00409,2026-03-01,Entertainment,Games,1732.71,Net Banking,Entertainment expense
+T00410,2026-01-29,Transport,Petrol,475.3,Net Banking,Transportation expense
+T00411,2026-10-14,Travel,IRCTC,7473.3,Cash,Travel expense
+T00412,2026-05-11,Food,Cafe,994.43,Card,Food expense
+T00413,2026-08-05,Transport,Uber,370.75,UPI,Transportation expense
+T00414,2026-08-30,Food,Swiggy,115.54,Net Banking,Food expense
+T00415,2026-11-25,Shopping,Flipkart,7833.17,Net Banking,Shopping expense
+T00416,2026-08-18,Entertainment,Games,2187.09,Net Banking,Entertainment expense
+T00417,2026-12-16,Healthcare,Pharmacy,5792.04,Card,Healthcare expense
+T00418,2026-04-02,Entertainment,Netflix,2482.83,Net Banking,Entertainment expense
+T00419,2026-01-02,Shopping,Flipkart,6122.58,Cash,Shopping expense
+T00420,2026-09-30,Travel,Travel Agency,6309.87,Card,Travel expense
+T00421,2026-06-27,Bills,Water,873.95,Card,Monthly bill
+T00422,2026-12-05,Transport,Uber,442.47,UPI,Transportation expense
+T00423,2026-02-04,Bills,Internet,673.32,UPI,Monthly bill
+T00424,2026-05-06,Travel,IRCTC,11367.58,Net Banking,Travel expense
+T00425,2026-10-04,Travel,Flight,4041.77,UPI,Travel expense
+T00426,2026-04-30,Shopping,Myntra,6581.55,Cash,Shopping expense
+T00427,2026-06-04,Entertainment,Movie,2203.02,Card,Entertainment expense
+T00428,2026-05-21,Healthcare,Hospital,553.55,Card,Healthcare expense
+T00429,2026-09-11,Healthcare,Clinic,471.93,Cash,Healthcare expense
+T00430,2026-06-13,Healthcare,Clinic,4238.59,Net Banking,Healthcare expense
+T00431,2026-07-12,Shopping,Myntra,1715.87,Net Banking,Shopping expense
+T00432,2026-06-03,Bills,Internet,3472.9,Card,Monthly bill
+T00433,2026-10-15,Travel,IRCTC,6777.48,Net Banking,Travel expense
+T00434,2026-05-05,Shopping,Local Store,2263.47,Cash,Shopping expense
+T00435,2026-07-09,Transport,Petrol,128.77,Card,Transportation expense
+T00436,2026-07-13,Food,Restaurant,834.51,UPI,Food expense
+T00437,2026-10-28,Transport,Ola,735.33,Card,Transportation expense
+T00438,2026-06-20,Travel,Flight,5244.63,UPI,Travel expense
+T00439,2026-03-02,Bills,Internet,3063.45,Net Banking,Monthly bill
+T00440,2026-07-23,Bills,Internet,3685.97,Cash,Monthly bill
+T00441,2026-08-27,Education,Coursera,2761.52,Cash,Education expense
+T00442,2026-07-04,Education,Book Store,2661.52,Net Banking,Education expense
+T00443,2026-08-29,Travel,IRCTC,11662.81,Cash,Travel expense
+T00444,2026-06-10,Bills,Mobile,1831.54,Card,Monthly bill
+T00445,2026-05-14,Shopping,Amazon,4560.5,Net Banking,Shopping expense
+T00446,2026-04-11,Education,Udemy,1783.35,Net Banking,Education expense
+T00447,2026-10-09,Bills,Water,2722.05,Cash,Monthly bill
+T00448,2026-11-25,Education,Coursera,3750.05,Net Banking,Education expense
+T00449,2026-03-28,Shopping,Myntra,1377.68,Net Banking,Shopping expense
+T00450,2026-09-26,Shopping,Amazon,560.44,UPI,Shopping expense
+T00451,2026-07-31,Food,Swiggy,233.99,Card,Food expense
+T00452,2026-01-05,Transport,Ola,249.97,Net Banking,Transportation expense
+T00453,2026-11-13,Entertainment,Netflix,1630.55,Net Banking,Entertainment expense
+T00454,2026-01-04,Travel,IRCTC,8450.97,Net Banking,Travel expense
+T00455,2026-09-29,Food,Swiggy,888.86,Cash,Food expense
+T00456,2026-04-02,Food,Cafe,199.86,UPI,Food expense
+T00457,2026-04-09,Shopping,Flipkart,5072.31,Cash,Shopping expense
+T00458,2026-07-23,Entertainment,Spotify,289.65,Net Banking,Entertainment expense
+T00459,2026-12-23,Travel,Flight,4162.0,UPI,Travel expense
+T00460,2026-07-27,Food,Swiggy,504.78,Net Banking,Food expense
+T00461,2026-12-26,Food,Swiggy,271.95,Net Banking,Food expense
+T00462,2026-06-19,Healthcare,Clinic,3481.97,UPI,Healthcare expense
+T00463,2026-04-19,Food,Zomato,1089.43,Net Banking,Food expense
+T00464,2026-02-08,Education,College,3485.26,Cash,Education expense
+T00465,2026-06-11,Food,Zomato,97.54,Card,Food expense
+T00466,2026-02-09,Shopping,Local Store,2604.43,Card,Shopping expense
+T00467,2026-10-04,Healthcare,Clinic,2124.03,Card,Healthcare expense
+T00468,2026-01-28,Transport,Bus,133.78,Card,Transportation expense
+T00469,2026-11-06,Transport,Bus,778.25,Net Banking,Transportation expense
+T00470,2026-11-21,Entertainment,Netflix,755.98,Net Banking,Entertainment expense
+T00471,2026-07-02,Travel,Flight,8742.53,Net Banking,Travel expense
+T00472,2026-12-15,Healthcare,Pharmacy,3598.08,Net Banking,Healthcare expense
+T00473,2026-05-07,Transport,Bus,724.58,UPI,Transportation expense
+T00474,2026-07-14,Education,Udemy,3616.05,Card,Education expense
+T00475,2026-07-04,Healthcare,Hospital,818.0,UPI,Healthcare expense
+T00476,2026-07-04,Education,Coursera,3854.46,UPI,Education expense
+T00477,2026-04-06,Shopping,Amazon,3618.54,Net Banking,Shopping expense
+T00478,2026-02-15,Transport,Uber,379.76,UPI,Transportation expense
+T00479,2026-01-07,Entertainment,Games,800.43,Net Banking,Entertainment expense
+T00480,2026-10-20,Transport,Ola,540.26,Net Banking,Transportation expense
+T00481,2026-05-18,Shopping,Flipkart,2618.71,Net Banking,Shopping expense
+T00482,2026-03-27,Shopping,Amazon,3647.01,Net Banking,Shopping expense
+T00483,2026-02-09,Education,Coursera,1933.4,Card,Education expense
+T00484,2026-08-23,Travel,Flight,2497.61,Cash,Travel expense
+T00485,2026-06-20,Food,Cafe,1022.61,Net Banking,Food expense
+T00486,2026-06-21,Entertainment,Games,1133.48,Card,Entertainment expense
+T00487,2026-11-05,Education,Book Store,4746.94,Card,Education expense
+T00488,2026-04-01,Travel,Hotel,14504.04,Cash,Travel expense
+T00489,2026-10-22,Education,Coursera,3953.48,Cash,Education expense
+T00490,2026-07-21,Healthcare,Hospital,2317.09,Card,Healthcare expense
+T00491,2026-08-25,Shopping,Amazon,7560.91,Card,Shopping expense
+T00492,2026-12-21,Travel,Hotel,1968.22,Net Banking,Travel expense
+T00493,2026-11-21,Travel,Flight,5239.66,Cash,Travel expense
+T00494,2026-07-13,Shopping,Local Store,869.53,Net Banking,Shopping expense
+T00495,2026-09-17,Healthcare,Clinic,5556.28,Net Banking,Healthcare expense
+T00496,2026-12-26,Food,Restaurant,1082.96,UPI,Food expense
+T00497,2026-12-03,Transport,Ola,678.11,Card,Transportation expense
+T00498,2026-06-19,Food,Cafe,1161.6,Net Banking,Food expense
+T00499,2026-02-20,Transport,Uber,288.39,Card,Transportation expense
+T00500,2026-07-20,Travel,Hotel,7482.88,Card,Travel expense
+T00501,2026-09-05,Entertainment,Netflix,350.92,Net Banking,Entertainment expense
+T00502,2026-03-14,Transport,Uber,374.4,Cash,Transportation expense
+T00503,2026-09-24,Travel,Flight,7760.96,Net Banking,Travel expense
+T00504,2026-12-23,Transport,Petrol,474.35,UPI,Transportation expense
+T00505,2026-12-30,Education,College,752.41,Cash,Education expense
+T00506,2026-05-05,Transport,Ola,535.35,Card,Transportation expense
+T00507,2026-08-25,Entertainment,Games,656.45,Net Banking,Entertainment expense
+T00508,2026-11-24,Shopping,Flipkart,5361.27,Net Banking,Shopping expense
+T00509,2026-08-19,Food,Zomato,743.27,Net Banking,Food expense
+T00510,2026-04-16,Food,Zomato,391.75,UPI,Food expense
+T00511,2026-07-07,Transport,Ola,352.95,Net Banking,Transportation expense
+T00512,2026-12-10,Transport,Bus,868.13,Cash,Transportation expense
+T00513,2026-07-20,Healthcare,Clinic,3604.63,Cash,Healthcare expense
+T00514,2026-11-13,Entertainment,Games,514.07,Cash,Entertainment expense
+T00515,2026-06-10,Transport,Ola,153.15,Cash,Transportation expense
+T00516,2026-07-11,Transport,Ola,705.7,Net Banking,Transportation expense
+T00517,2026-03-12,Healthcare,Clinic,3533.88,Net Banking,Healthcare expense
+T00518,2026-11-22,Shopping,Local Store,4437.82,Card,Shopping expense
+T00519,2026-05-28,Shopping,Local Store,1380.28,Cash,Shopping expense
+T00520,2026-07-03,Travel,IRCTC,14325.79,Net Banking,Travel expense
+T00521,2026-07-16,Shopping,Flipkart,7721.48,Net Banking,Shopping expense
+T00522,2026-09-09,Healthcare,Clinic,2610.66,Net Banking,Healthcare expense
+T00523,2026-02-12,Travel,Flight,8915.57,Card,Travel expense
+T00524,2026-05-21,Education,College,1279.25,Cash,Education expense
+T00525,2026-10-17,Shopping,Local Store,6017.39,Net Banking,Shopping expense
+T00526,2026-05-18,Transport,Uber,784.11,Cash,Transportation expense
+T00527,2026-10-07,Food,Cafe,324.77,Net Banking,Food expense
+T00528,2026-06-02,Transport,Ola,879.82,UPI,Transportation expense
+T00529,2026-06-28,Travel,Hotel,13070.79,UPI,Travel expense
+T00530,2026-05-02,Travel,IRCTC,3938.29,Cash,Travel expense
+T00531,2026-11-12,Healthcare,Pharmacy,1007.56,Card,Healthcare expense
+T00532,2026-10-19,Bills,Electricity,1598.02,Cash,Monthly bill
+T00533,2026-12-27,Shopping,Myntra,2553.29,Cash,Shopping expense
+T00534,2026-07-30,Transport,Ola,922.02,Cash,Transportation expense
+T00535,2026-05-08,Shopping,Flipkart,1426.07,Cash,Shopping expense
+T00536,2026-09-08,Bills,Water,826.04,Cash,Monthly bill
+T00537,2026-08-20,Healthcare,Hospital,637.99,UPI,Healthcare expense
+T00538,2026-05-23,Healthcare,Clinic,4229.28,Cash,Healthcare expense
+T00539,2026-06-17,Travel,Travel Agency,9147.38,UPI,Travel expense
+T00540,2026-02-02,Travel,Hotel,12139.49,Net Banking,Travel expense
+T00541,2026-04-19,Bills,Water,2130.45,Cash,Monthly bill
+T00542,2026-10-08,Education,Book Store,2974.08,Net Banking,Education expense
+T00543,2026-01-24,Entertainment,Netflix,338.98,Net Banking,Entertainment expense
+T00544,2026-03-22,Food,Swiggy,574.24,UPI,Food expense
+T00545,2026-12-19,Healthcare,Pharmacy,5474.56,Cash,Healthcare expense
+T00546,2026-02-17,Shopping,Myntra,5340.33,Cash,Shopping expense
+T00547,2026-12-07,Transport,Bus,907.65,Card,Transportation expense
+T00548,2026-11-17,Food,Cafe,422.17,Card,Food expense
+T00549,2026-02-16,Healthcare,Clinic,4281.45,UPI,Healthcare expense
+T00550,2026-02-09,Bills,Water,790.99,Card,Monthly bill
+T00551,2026-01-05,Travel,IRCTC,10738.36,UPI,Travel expense
+T00552,2026-03-09,Healthcare,Clinic,2970.66,Card,Healthcare expense
+T00553,2026-02-22,Healthcare,Pharmacy,798.57,Cash,Healthcare expense
+T00554,2026-07-15,Education,Udemy,3912.61,Card,Education expense
+T00555,2026-09-29,Shopping,Amazon,4637.34,Card,Shopping expense
+T00556,2026-04-20,Travel,Hotel,9793.12,Card,Travel expense
+T00557,2026-12-18,Healthcare,Clinic,2765.83,Card,Healthcare expense
+T00558,2026-03-13,Transport,Uber,762.35,Net Banking,Transportation expense
+T00559,2026-06-11,Entertainment,Games,1998.58,Card,Entertainment expense
+T00560,2026-05-08,Education,College,2856.3,Cash,Education expense
+T00561,2026-04-16,Food,Restaurant,659.88,Card,Food expense
+T00562,2026-11-27,Healthcare,Hospital,516.5,Card,Healthcare expense
+T00563,2026-02-27,Travel,Travel Agency,4375.14,UPI,Travel expense
+T00564,2026-06-12,Food,Restaurant,227.82,Net Banking,Food expense
+T00565,2026-08-30,Entertainment,Movie,2390.69,UPI,Entertainment expense
+T00566,2026-01-08,Food,Swiggy,373.65,UPI,Food expense
+T00567,2026-09-17,Food,Cafe,400.87,Net Banking,Food expense
+T00568,2026-07-25,Healthcare,Clinic,678.08,Card,Healthcare expense
+T00569,2026-06-08,Education,College,579.3,Card,Education expense
+T00570,2026-07-20,Shopping,Myntra,4815.57,UPI,Shopping expense
+T00571,2026-05-03,Education,Coursera,477.95,UPI,Education expense
+T00572,2026-08-21,Healthcare,Pharmacy,3751.32,UPI,Healthcare expense
+T00573,2026-03-03,Education,Udemy,260.79,Card,Education expense
+T00574,2026-09-12,Food,Zomato,1147.38,Cash,Food expense
+T00575,2026-03-06,Shopping,Myntra,6073.28,Cash,Shopping expense
+T00576,2026-06-21,Transport,Uber,814.82,Cash,Transportation expense
+T00577,2026-12-31,Transport,Bus,976.05,UPI,Transportation expense
+T00578,2026-09-19,Travel,Travel Agency,6041.73,Net Banking,Travel expense
+T00579,2026-03-22,Shopping,Myntra,2264.39,UPI,Shopping expense
+T00580,2026-09-18,Transport,Ola,42.47,UPI,Transportation expense
+T00581,2026-08-30,Bills,Electricity,1646.71,Card,Monthly bill
+T00582,2026-10-11,Shopping,Amazon,6483.99,Net Banking,Shopping expense
+T00583,2026-05-08,Bills,Mobile,1840.15,Cash,Monthly bill
+T00584,2026-10-20,Education,College,1989.48,UPI,Education expense
+T00585,2026-09-22,Shopping,Flipkart,7856.89,Net Banking,Shopping expense
+T00586,2026-05-25,Transport,Petrol,782.59,Cash,Transportation expense
+T00587,2026-10-11,Entertainment,Netflix,1196.19,Cash,Entertainment expense
+T00588,2026-10-16,Bills,Mobile,3202.68,Card,Monthly bill
+T00589,2026-10-30,Travel,Hotel,14606.01,Card,Travel expense
+T00590,2026-01-04,Bills,Internet,3749.87,UPI,Monthly bill
+T00591,2026-11-22,Bills,Mobile,3406.42,UPI,Monthly bill
+T00592,2026-12-03,Entertainment,Netflix,1003.06,Cash,Entertainment expense
+T00593,2026-09-29,Transport,Ola,983.79,Net Banking,Transportation expense
+T00594,2026-03-14,Travel,IRCTC,10963.13,UPI,Travel expense
+T00595,2026-09-24,Food,Zomato,542.62,Cash,Food expense
+T00596,2026-10-25,Travel,IRCTC,2338.08,Card,Travel expense
+T00597,2026-10-31,Healthcare,Pharmacy,3493.36,Net Banking,Healthcare expense
+T00598,2026-05-30,Shopping,Flipkart,2309.63,Cash,Shopping expense
+T00599,2026-06-17,Healthcare,Clinic,2044.73,Cash,Healthcare expense
+T00600,2026-04-14,Bills,Electricity,803.61,UPI,Monthly bill
+T00601,2026-03-26,Shopping,Amazon,3761.66,Cash,Shopping expense
+T00602,2026-10-02,Healthcare,Pharmacy,2278.07,Card,Healthcare expense
+T00603,2026-08-26,Travel,Hotel,4710.11,UPI,Travel expense
+T00604,2026-12-18,Transport,Ola,332.05,UPI,Transportation expense
+T00605,2026-03-17,Bills,Mobile,637.49,Card,Monthly bill
+T00606,2026-09-20,Entertainment,Games,217.48,Cash,Entertainment expense
+T00607,2026-01-16,Education,Udemy,4770.06,Net Banking,Education expense
+T00608,2026-08-25,Bills,Electricity,677.06,Card,Monthly bill
+T00609,2026-02-01,Transport,Uber,837.16,Card,Transportation expense
+T00610,2026-07-25,Shopping,Flipkart,3166.25,UPI,Shopping expense
+T00611,2026-01-12,Education,College,4986.37,Card,Education expense
+T00612,2026-02-17,Travel,Flight,13671.09,Cash,Travel expense
+T00613,2026-08-25,Transport,Uber,88.61,Net Banking,Transportation expense
+T00614,2026-01-16,Healthcare,Hospital,2419.83,Net Banking,Healthcare expense
+T00615,2026-04-20,Shopping,Myntra,7293.94,Cash,Shopping expense
+T00616,2026-03-18,Education,Coursera,366.32,Card,Education expense
+T00617,2026-07-30,Education,Coursera,4437.34,Net Banking,Education expense
+T00618,2026-05-24,Food,Swiggy,508.98,Net Banking,Food expense
+T00619,2026-11-19,Bills,Internet,3978.12,UPI,Monthly bill
+T00620,2026-07-03,Healthcare,Clinic,2982.17,Net Banking,Healthcare expense
+T00621,2026-07-18,Entertainment,Spotify,749.05,UPI,Entertainment expense
+T00622,2026-01-16,Entertainment,Movie,2249.84,Cash,Entertainment expense
+T00623,2026-09-29,Food,Cafe,480.32,Card,Food expense
+T00624,2026-05-07,Shopping,Amazon,5357.86,Cash,Shopping expense
+T00625,2026-10-22,Food,Zomato,1028.09,Net Banking,Food expense
+T00626,2026-04-01,Entertainment,Movie,667.72,Cash,Entertainment expense
+T00627,2026-12-27,Entertainment,Netflix,1781.35,Card,Entertainment expense
+T00628,2026-10-05,Bills,Water,1443.5,Net Banking,Monthly bill
+T00629,2026-01-29,Food,Swiggy,340.54,Card,Food expense
+T00630,2026-01-01,Food,Cafe,451.54,Card,Food expense
+T00631,2026-04-01,Shopping,Myntra,7374.61,Cash,Shopping expense
+T00632,2026-03-17,Food,Swiggy,737.0,Card,Food expense
+T00633,2026-02-07,Transport,Bus,398.65,Net Banking,Transportation expense
+T00634,2026-06-04,Transport,Bus,349.7,Card,Transportation expense
+T00635,2026-09-07,Healthcare,Clinic,3965.25,Card,Healthcare expense
+T00636,2026-12-07,Entertainment,Movie,1513.48,Card,Entertainment expense
+T00637,2026-12-19,Healthcare,Hospital,1908.2,Card,Healthcare expense
+T00638,2026-10-18,Food,Cafe,116.27,Cash,Food expense
+T00639,2026-09-12,Bills,Electricity,820.38,UPI,Monthly bill
+T00640,2026-06-13,Bills,Mobile,921.18,UPI,Monthly bill
+T00641,2026-01-06,Entertainment,Games,736.51,Card,Entertainment expense
+T00642,2026-05-12,Transport,Bus,795.54,UPI,Transportation expense
+T00643,2026-08-13,Food,Cafe,900.49,Card,Food expense
+T00644,2026-07-13,Healthcare,Hospital,2237.14,Net Banking,Healthcare expense
+T00645,2026-10-23,Transport,Petrol,664.93,Card,Transportation expense
+T00646,2026-02-07,Shopping,Local Store,6453.8,UPI,Shopping expense
+T00647,2026-06-13,Education,College,1453.41,UPI,Education expense
+T00648,2026-03-29,Transport,Bus,892.41,Card,Transportation expense
+T00649,2026-06-23,Transport,Uber,610.27,Net Banking,Transportation expense
+T00650,2026-12-01,Food,Cafe,264.8,Net Banking,Food expense
+T00651,2026-02-21,Shopping,Amazon,2849.43,Card,Shopping expense
+T00652,2026-10-11,Healthcare,Clinic,4387.82,Cash,Healthcare expense
+T00653,2026-05-02,Education,Book Store,660.4,Net Banking,Education expense
+T00654,2026-01-28,Travel,Flight,6051.6,Net Banking,Travel expense
+T00655,2026-12-05,Transport,Bus,640.09,Net Banking,Transportation expense
+T00656,2026-01-14,Bills,Electricity,1065.73,Cash,Monthly bill
+T00657,2026-03-01,Transport,Petrol,336.02,Net Banking,Transportation expense
+T00658,2026-12-05,Travel,Travel Agency,4710.06,Net Banking,Travel expense
+T00659,2026-07-15,Shopping,Myntra,3144.39,Net Banking,Shopping expense
+T00660,2026-08-14,Food,Restaurant,600.86,Card,Food expense
+T00661,2026-03-19,Education,College,3810.73,UPI,Education expense
+T00662,2026-10-05,Transport,Bus,437.43,Card,Transportation expense
+T00663,2026-09-25,Food,Cafe,548.87,Net Banking,Food expense
+T00664,2026-06-03,Bills,Water,592.13,UPI,Monthly bill
+T00665,2026-08-18,Shopping,Amazon,1631.17,Card,Shopping expense
+T00666,2026-03-06,Bills,Internet,457.9,UPI,Monthly bill
+T00667,2026-11-18,Healthcare,Pharmacy,1057.69,Cash,Healthcare expense
+T00668,2026-02-14,Entertainment,Netflix,1031.44,Net Banking,Entertainment expense
+T00669,2026-09-24,Entertainment,Spotify,1199.58,UPI,Entertainment expense
+T00670,2026-08-01,Healthcare,Pharmacy,1067.93,UPI,Healthcare expense
+T00671,2026-05-27,Transport,Uber,872.78,Cash,Transportation expense
+T00672,2026-07-16,Healthcare,Hospital,3997.77,Net Banking,Healthcare expense
+T00673,2026-05-22,Food,Zomato,531.33,Net Banking,Food expense
+T00674,2026-06-19,Food,Cafe,853.38,UPI,Food expense
+T00675,2026-07-10,Travel,Hotel,1283.26,Cash,Travel expense
+T00676,2026-09-09,Education,Book Store,4319.53,UPI,Education expense
+T00677,2026-06-03,Bills,Internet,3904.61,Net Banking,Monthly bill
+T00678,2026-08-02,Entertainment,Spotify,1551.95,UPI,Entertainment expense
+T00679,2026-04-19,Bills,Water,3679.7,Net Banking,Monthly bill
+T00680,2026-01-29,Travel,Hotel,8213.78,Card,Travel expense
+T00681,2026-12-30,Transport,Bus,526.52,Card,Transportation expense
+T00682,2026-04-09,Food,Zomato,1060.2,Card,Food expense
+T00683,2026-01-17,Food,Zomato,591.22,Cash,Food expense
+T00684,2026-07-08,Bills,Mobile,3346.97,Net Banking,Monthly bill
+T00685,2026-05-04,Transport,Uber,397.57,Net Banking,Transportation expense
+T00686,2026-10-28,Shopping,Local Store,4545.27,Cash,Shopping expense
+T00687,2026-12-19,Shopping,Myntra,996.02,UPI,Shopping expense
+T00688,2026-03-25,Healthcare,Pharmacy,5152.16,Card,Healthcare expense
+T00689,2026-12-13,Bills,Internet,1064.9,Net Banking,Monthly bill
+T00690,2026-08-31,Food,Swiggy,1100.9,Card,Food expense
+T00691,2026-05-10,Food,Zomato,761.35,Cash,Food expense
+T00692,2026-07-12,Education,Coursera,4287.61,Net Banking,Education expense
+T00693,2026-08-27,Education,Udemy,1650.3,Net Banking,Education expense
+T00694,2026-09-19,Transport,Uber,999.45,Cash,Transportation expense
+T00695,2026-12-17,Education,Book Store,718.9,UPI,Education expense
+T00696,2026-11-24,Entertainment,Spotify,880.33,Cash,Entertainment expense
+T00697,2026-04-07,Education,Book Store,919.66,Card,Education expense
+T00698,2026-12-05,Food,Cafe,437.94,Card,Food expense
+T00699,2026-06-01,Food,Cafe,370.56,Net Banking,Food expense
+T00700,2026-01-19,Healthcare,Hospital,3581.54,Card,Healthcare expense
+T00701,2026-12-18,Entertainment,Movie,1383.12,Net Banking,Entertainment expense
+T00702,2026-03-29,Entertainment,Spotify,2117.53,Card,Entertainment expense
+T00703,2026-08-30,Education,College,814.13,Cash,Education expense
+T00704,2026-12-02,Shopping,Myntra,987.61,Cash,Shopping expense
+T00705,2026-08-04,Bills,Mobile,3215.93,Cash,Monthly bill
+T00706,2026-10-27,Entertainment,Spotify,805.72,UPI,Entertainment expense
+T00707,2026-11-21,Travel,IRCTC,9170.04,UPI,Travel expense
+T00708,2026-09-14,Travel,Flight,2677.42,Net Banking,Travel expense
+T00709,2026-01-28,Education,Coursera,4380.08,Card,Education expense
+T00710,2026-06-25,Shopping,Flipkart,3450.78,Net Banking,Shopping expense
+T00711,2026-04-03,Shopping,Myntra,6297.85,Net Banking,Shopping expense
+T00712,2026-06-10,Entertainment,Movie,1622.8,UPI,Entertainment expense
+T00713,2026-04-18,Travel,Hotel,11656.71,Card,Travel expense
+T00714,2026-02-15,Shopping,Local Store,1296.43,Net Banking,Shopping expense
+T00715,2026-08-08,Healthcare,Hospital,5798.9,Net Banking,Healthcare expense
+T00716,2026-10-01,Food,Swiggy,303.34,Cash,Food expense
+T00717,2026-09-29,Food,Restaurant,293.45,UPI,Food expense
+T00718,2026-12-22,Bills,Internet,3544.85,Cash,Monthly bill
+T00719,2026-07-16,Shopping,Amazon,4175.69,Cash,Shopping expense
+T00720,2026-01-24,Shopping,Amazon,2596.16,Cash,Shopping expense
+T00721,2026-08-11,Travel,Hotel,13431.64,Card,Travel expense
+T00722,2026-07-03,Entertainment,Games,1900.28,Card,Entertainment expense
+T00723,2026-04-27,Healthcare,Pharmacy,1501.06,Card,Healthcare expense
+T00724,2026-10-29,Bills,Electricity,2167.14,UPI,Monthly bill
+T00725,2026-07-12,Entertainment,Netflix,2203.71,Cash,Entertainment expense
+T00726,2026-12-05,Food,Swiggy,201.09,UPI,Food expense
+T00727,2026-08-02,Food,Swiggy,577.63,UPI,Food expense
+T00728,2026-12-26,Education,Coursera,935.01,UPI,Education expense
+T00729,2026-12-05,Education,Coursera,684.7,Cash,Education expense
+T00730,2026-02-23,Shopping,Local Store,4239.2,UPI,Shopping expense
+T00731,2026-02-24,Education,College,2589.15,Card,Education expense
+T00732,2026-07-03,Education,Udemy,3576.5,Cash,Education expense
+T00733,2026-10-08,Shopping,Amazon,4121.93,Card,Shopping expense
+T00734,2026-05-01,Travel,Hotel,1038.33,UPI,Travel expense
+T00735,2026-03-18,Transport,Petrol,951.47,UPI,Transportation expense
+T00736,2026-11-26,Transport,Bus,261.91,Cash,Transportation expense
+T00737,2026-01-26,Education,Coursera,679.08,Card,Education expense
+T00738,2026-07-04,Food,Restaurant,977.79,Cash,Food expense
+T00739,2026-03-01,Healthcare,Clinic,750.99,UPI,Healthcare expense
+T00740,2026-12-06,Food,Zomato,804.86,Cash,Food expense
+T00741,2026-11-15,Entertainment,Games,743.94,UPI,Entertainment expense
+T00742,2026-04-04,Entertainment,Spotify,373.2,Net Banking,Entertainment expense
+T00743,2026-07-17,Travel,Hotel,10658.63,Net Banking,Travel expense
+T00744,2026-03-27,Healthcare,Clinic,855.73,UPI,Healthcare expense
+T00745,2026-08-02,Shopping,Amazon,7316.45,Net Banking,Shopping expense
+T00746,2026-11-09,Travel,Flight,6316.51,Cash,Travel expense
+T00747,2026-09-05,Food,Zomato,1110.85,UPI,Food expense
+T00748,2026-01-24,Healthcare,Hospital,567.35,Cash,Healthcare expense
+T00749,2026-12-09,Food,Zomato,1057.92,UPI,Food expense
+T00750,2026-05-08,Healthcare,Clinic,2995.19,Net Banking,Healthcare expense
+T00751,2026-01-06,Shopping,Amazon,5254.17,Card,Shopping expense
+T00752,2026-03-26,Travel,Travel Agency,2048.11,Net Banking,Travel expense
+T00753,2026-06-19,Entertainment,Movie,2428.35,UPI,Entertainment expense
+T00754,2026-07-26,Bills,Water,3323.28,UPI,Monthly bill
+T00755,2026-10-21,Travel,Travel Agency,7273.38,Net Banking,Travel expense
+T00756,2026-03-02,Travel,Hotel,14729.39,UPI,Travel expense
+T00757,2026-07-31,Transport,Petrol,74.4,UPI,Transportation expense
+T00758,2026-09-18,Transport,Bus,579.84,Net Banking,Transportation expense
+T00759,2026-01-28,Entertainment,Spotify,2059.81,Net Banking,Entertainment expense
+T00760,2026-12-03,Entertainment,Games,971.91,Net Banking,Entertainment expense
+T00761,2026-12-04,Transport,Uber,252.88,Cash,Transportation expense
+T00762,2026-10-08,Entertainment,Spotify,1352.76,UPI,Entertainment expense
+T00763,2026-09-10,Food,Zomato,237.3,Net Banking,Food expense
+T00764,2026-11-09,Transport,Bus,228.08,UPI,Transportation expense
+T00765,2026-08-23,Healthcare,Pharmacy,4982.41,Card,Healthcare expense
+T00766,2026-08-01,Entertainment,Netflix,211.6,UPI,Entertainment expense
+T00767,2026-12-04,Travel,Travel Agency,9250.43,Card,Travel expense
+T00768,2026-09-29,Travel,IRCTC,11307.0,Net Banking,Travel expense
+T00769,2026-12-21,Travel,Flight,9099.76,Card,Travel expense
+T00770,2026-12-03,Transport,Petrol,616.52,Cash,Transportation expense
+T00771,2026-11-08,Healthcare,Hospital,5512.28,Card,Healthcare expense
+T00772,2026-06-25,Education,Coursera,4858.36,Net Banking,Education expense
+T00773,2026-07-31,Shopping,Flipkart,4939.44,Cash,Shopping expense
+T00774,2026-04-13,Entertainment,Movie,603.31,Cash,Entertainment expense
+T00775,2026-12-30,Entertainment,Movie,1660.21,Card,Entertainment expense
+T00776,2026-06-30,Entertainment,Netflix,1449.47,Net Banking,Entertainment expense
+T00777,2026-01-07,Education,Coursera,2709.1,UPI,Education expense
+T00778,2026-01-28,Healthcare,Pharmacy,4087.47,Card,Healthcare expense
+T00779,2026-05-27,Education,Udemy,3480.27,Card,Education expense
+T00780,2026-04-15,Food,Restaurant,924.03,UPI,Food expense
+T00781,2026-02-22,Entertainment,Games,1578.66,Card,Entertainment expense
+T00782,2026-09-19,Healthcare,Pharmacy,4748.98,Cash,Healthcare expense
+T00783,2026-07-18,Food,Cafe,546.55,Cash,Food expense
+T00784,2026-05-09,Food,Swiggy,307.46,Net Banking,Food expense
+T00785,2026-10-29,Bills,Mobile,2322.48,Card,Monthly bill
+T00786,2026-08-18,Bills,Mobile,956.48,UPI,Monthly bill
+T00787,2026-09-21,Shopping,Flipkart,1219.02,UPI,Shopping expense
+T00788,2026-10-12,Healthcare,Hospital,1732.59,Card,Healthcare expense
+T00789,2026-06-19,Education,College,2438.39,Card,Education expense
+T00790,2026-06-15,Food,Zomato,748.51,Cash,Food expense
+T00791,2026-02-07,Travel,Hotel,11976.44,Cash,Travel expense
+T00792,2026-09-24,Bills,Internet,552.25,Card,Monthly bill
+T00793,2026-10-02,Healthcare,Clinic,2539.82,Cash,Healthcare expense
+T00794,2026-12-06,Bills,Internet,1527.97,Cash,Monthly bill
+T00795,2026-11-13,Education,Udemy,2746.39,UPI,Education expense
+T00796,2026-08-17,Transport,Bus,270.73,Card,Transportation expense
+T00797,2026-07-15,Food,Restaurant,1105.84,UPI,Food expense
+T00798,2026-10-04,Healthcare,Hospital,4399.06,UPI,Healthcare expense
+T00799,2026-09-07,Entertainment,Games,205.24,Card,Entertainment expense
+T00800,2026-02-19,Entertainment,Netflix,501.75,UPI,Entertainment expense
+T00801,2026-12-10,Transport,Ola,644.33,Card,Transportation expense
+T00802,2026-04-16,Healthcare,Pharmacy,3318.97,Net Banking,Healthcare expense
+T00803,2026-01-13,Transport,Ola,480.86,Cash,Transportation expense
+T00804,2026-02-07,Food,Swiggy,140.78,Cash,Food expense
+T00805,2026-05-13,Transport,Ola,431.33,Net Banking,Transportation expense
+T00806,2026-06-11,Healthcare,Hospital,297.97,UPI,Healthcare expense
+T00807,2026-10-27,Food,Swiggy,130.98,UPI,Food expense
+T00808,2026-05-29,Entertainment,Netflix,1988.54,Cash,Entertainment expense
+T00809,2026-08-13,Transport,Bus,406.16,UPI,Transportation expense
+T00810,2026-10-01,Travel,Flight,4078.12,Net Banking,Travel expense
+T00811,2026-06-02,Education,Udemy,3450.99,Cash,Education expense
+T00812,2026-03-05,Food,Zomato,126.79,Net Banking,Food expense
+T00813,2026-04-18,Transport,Bus,758.36,Cash,Transportation expense
+T00814,2026-11-27,Bills,Water,3450.4,Card,Monthly bill
+T00815,2026-04-24,Shopping,Flipkart,5050.01,Cash,Shopping expense
+T00816,2026-04-03,Bills,Electricity,2782.62,UPI,Monthly bill
+T00817,2026-05-29,Travel,IRCTC,10403.59,Cash,Travel expense
+T00818,2026-10-25,Transport,Ola,507.7,Cash,Transportation expense
+T00819,2026-12-10,Entertainment,Movie,1673.14,UPI,Entertainment expense
+T00820,2026-04-10,Education,College,1725.37,Net Banking,Education expense
+T00821,2026-12-22,Entertainment,Spotify,1502.01,Cash,Entertainment expense
+T00822,2026-03-28,Entertainment,Games,111.6,Card,Entertainment expense
+T00823,2026-05-22,Bills,Water,3408.41,Card,Monthly bill
+T00824,2026-08-25,Entertainment,Games,1168.86,Cash,Entertainment expense
+T00825,2026-03-31,Travel,IRCTC,10037.72,UPI,Travel expense
+T00826,2026-10-03,Education,Udemy,1142.87,UPI,Education expense
+T00827,2026-09-17,Transport,Uber,646.36,Net Banking,Transportation expense
+T00828,2026-10-10,Bills,Electricity,1264.28,Net Banking,Monthly bill
+T00829,2026-07-20,Shopping,Myntra,2019.46,Cash,Shopping expense
+T00830,2026-09-14,Shopping,Local Store,4230.17,Net Banking,Shopping expense
+T00831,2026-12-06,Entertainment,Netflix,673.31,Card,Entertainment expense
+T00832,2026-03-23,Shopping,Local Store,1679.42,Card,Shopping expense
+T00833,2026-01-21,Travel,Hotel,4063.47,Net Banking,Travel expense
+T00834,2026-05-16,Bills,Electricity,1666.91,UPI,Monthly bill
+T00835,2026-07-18,Bills,Mobile,2037.79,Net Banking,Monthly bill
+T00836,2026-11-29,Food,Swiggy,442.96,Cash,Food expense
+T00837,2026-07-12,Education,Udemy,3337.64,Cash,Education expense
+T00838,2026-07-12,Transport,Bus,973.77,Card,Transportation expense
+T00839,2026-06-26,Healthcare,Hospital,3023.8,Net Banking,Healthcare expense
+T00840,2026-08-14,Food,Zomato,265.48,UPI,Food expense
+T00841,2026-03-18,Education,Udemy,1097.15,Cash,Education expense
+T00842,2026-08-01,Transport,Ola,818.73,UPI,Transportation expense
+T00843,2026-09-03,Travel,Travel Agency,3949.86,Card,Travel expense
+T00844,2026-05-05,Healthcare,Pharmacy,450.24,Card,Healthcare expense
+T00845,2026-10-21,Shopping,Amazon,1430.86,Card,Shopping expense
+T00846,2026-09-22,Education,Udemy,4799.54,UPI,Education expense
+T00847,2026-04-21,Education,College,2356.18,Net Banking,Education expense
+T00848,2026-04-23,Travel,Flight,12625.09,Card,Travel expense
+T00849,2026-03-27,Shopping,Myntra,5876.24,Cash,Shopping expense
+T00850,2026-04-28,Travel,IRCTC,6294.96,Card,Travel expense
+T00851,2026-04-14,Transport,Uber,541.8,Net Banking,Transportation expense
+T00852,2026-04-01,Shopping,Amazon,3964.19,UPI,Shopping expense
+T00853,2026-09-04,Transport,Uber,673.02,UPI,Transportation expense
+T00854,2026-08-04,Healthcare,Clinic,2348.19,UPI,Healthcare expense
+T00855,2026-09-04,Healthcare,Pharmacy,4779.42,Net Banking,Healthcare expense
+T00856,2026-08-06,Entertainment,Netflix,421.32,Net Banking,Entertainment expense
+T00857,2026-05-26,Bills,Electricity,2513.68,Net Banking,Monthly bill
+T00858,2026-01-03,Education,Udemy,3603.91,UPI,Education expense
+T00859,2026-07-12,Transport,Uber,668.36,Cash,Transportation expense
+T00860,2026-02-24,Healthcare,Hospital,1097.72,Cash,Healthcare expense
+T00861,2026-10-17,Education,Coursera,1955.09,Cash,Education expense
+T00862,2026-07-31,Healthcare,Pharmacy,3402.21,Net Banking,Healthcare expense
+T00863,2026-10-14,Shopping,Myntra,4572.82,Cash,Shopping expense
+T00864,2026-12-28,Education,Book Store,2111.02,Card,Education expense
+T00865,2026-08-17,Transport,Ola,791.78,Card,Transportation expense
+T00866,2026-09-18,Transport,Ola,424.54,Cash,Transportation expense
+T00867,2026-07-19,Food,Zomato,1160.32,UPI,Food expense
+T00868,2026-08-30,Transport,Ola,928.83,Net Banking,Transportation expense
+T00869,2026-05-15,Transport,Uber,252.9,UPI,Transportation expense
+T00870,2026-07-25,Food,Cafe,767.64,Cash,Food expense
+T00871,2026-11-24,Food,Zomato,633.69,UPI,Food expense
+T00872,2026-04-10,Bills,Mobile,424.35,Card,Monthly bill
+T00873,2026-07-04,Shopping,Amazon,2142.28,UPI,Shopping expense
+T00874,2026-05-22,Shopping,Amazon,6303.48,Cash,Shopping expense
+T00875,2026-10-28,Healthcare,Hospital,1361.8,UPI,Healthcare expense
+T00876,2026-10-09,Transport,Uber,313.11,Cash,Transportation expense
+T00877,2026-04-26,Entertainment,Spotify,1555.27,Card,Entertainment expense
+T00878,2026-10-22,Travel,Travel Agency,1065.12,Card,Travel expense
+T00879,2026-02-24,Healthcare,Clinic,3440.06,Cash,Healthcare expense
+T00880,2026-09-20,Entertainment,Netflix,2396.1,Cash,Entertainment expense
+T00881,2026-10-16,Travel,Travel Agency,7770.82,Card,Travel expense
+T00882,2026-12-15,Entertainment,Games,1205.73,UPI,Entertainment expense
+T00883,2026-05-13,Travel,IRCTC,1945.76,Card,Travel expense
+T00884,2026-07-31,Bills,Mobile,3835.15,UPI,Monthly bill
+T00885,2026-05-28,Education,Udemy,646.45,Cash,Education expense
+T00886,2026-09-01,Transport,Ola,341.32,Card,Transportation expense
+T00887,2026-12-16,Education,Udemy,4665.23,Card,Education expense
+T00888,2026-05-01,Travel,Flight,11296.01,Cash,Travel expense
+T00889,2026-04-14,Bills,Internet,3389.28,Cash,Monthly bill
+T00890,2026-03-03,Shopping,Amazon,7385.45,Net Banking,Shopping expense
+T00891,2026-09-04,Food,Swiggy,495.74,Cash,Food expense
+T00892,2026-09-09,Travel,Hotel,3560.21,Cash,Travel expense
+T00893,2026-10-23,Healthcare,Pharmacy,943.83,Net Banking,Healthcare expense
+T00894,2026-09-15,Travel,IRCTC,5862.05,Card,Travel expense
+T00895,2026-12-24,Travel,IRCTC,8254.87,Cash,Travel expense
+T00896,2026-12-12,Food,Swiggy,316.04,UPI,Food expense
+T00897,2026-11-10,Entertainment,Spotify,2168.42,Card,Entertainment expense
+T00898,2026-05-18,Education,Udemy,2462.46,Cash,Education expense
+T00899,2026-09-13,Entertainment,Movie,1117.46,Net Banking,Entertainment expense
+T00900,2026-07-25,Entertainment,Spotify,771.11,Card,Entertainment expense
+T00901,2026-02-21,Shopping,Flipkart,5850.28,Card,Shopping expense
+T00902,2026-04-11,Healthcare,Hospital,1045.89,Card,Healthcare expense
+T00903,2026-04-01,Travel,IRCTC,6901.29,Card,Travel expense
+T00904,2026-06-03,Entertainment,Games,702.34,UPI,Entertainment expense
+T00905,2026-12-20,Healthcare,Pharmacy,1147.38,Card,Healthcare expense
+T00906,2026-11-19,Education,Coursera,662.25,Cash,Education expense
+T00907,2026-07-04,Education,Book Store,2889.68,Cash,Education expense
+T00908,2026-07-30,Entertainment,Netflix,390.97,Card,Entertainment expense
+T00909,2026-07-01,Shopping,Myntra,2803.2,Net Banking,Shopping expense
+T00910,2026-07-15,Travel,IRCTC,9591.29,Net Banking,Travel expense
+T00911,2026-11-24,Shopping,Flipkart,6519.42,Cash,Shopping expense
+T00912,2026-11-10,Healthcare,Clinic,3515.5,UPI,Healthcare expense
+T00913,2026-06-25,Transport,Ola,259.09,Cash,Transportation expense
+T00914,2026-11-06,Education,Book Store,3294.29,Cash,Education expense
+T00915,2026-10-28,Travel,Hotel,8293.1,Net Banking,Travel expense
+T00916,2026-04-05,Healthcare,Pharmacy,5154.43,Card,Healthcare expense
+T00917,2026-12-25,Bills,Mobile,3074.04,Card,Monthly bill
+T00918,2026-02-22,Shopping,Local Store,1035.76,Net Banking,Shopping expense
+T00919,2026-07-23,Food,Swiggy,666.86,UPI,Food expense
+T00920,2026-11-13,Transport,Bus,189.06,Net Banking,Transportation expense
+T00921,2026-05-07,Education,Udemy,3740.45,Net Banking,Education expense
+T00922,2026-09-27,Shopping,Flipkart,6756.59,UPI,Shopping expense
+T00923,2026-06-16,Food,Restaurant,1047.95,Net Banking,Food expense
+T00924,2026-03-11,Education,Coursera,4853.8,Card,Education expense
+T00925,2026-09-26,Travel,Travel Agency,9957.01,Cash,Travel expense
+T00926,2026-10-04,Entertainment,Games,645.11,UPI,Entertainment expense
+T00927,2026-07-07,Travel,Hotel,6770.85,Card,Travel expense
+T00928,2026-01-01,Education,College,2711.92,Card,Education expense
+T00929,2026-08-29,Entertainment,Spotify,1384.24,Net Banking,Entertainment expense
+T00930,2026-01-05,Travel,Hotel,11722.17,Cash,Travel expense
+T00931,2026-10-08,Bills,Electricity,1682.48,Net Banking,Monthly bill
+T00932,2026-05-08,Healthcare,Hospital,1146.96,Net Banking,Healthcare expense
+T00933,2026-05-15,Healthcare,Pharmacy,659.42,Card,Healthcare expense
+T00934,2026-11-29,Education,Book Store,3766.05,Cash,Education expense
+T00935,2026-02-05,Healthcare,Pharmacy,1257.96,Cash,Healthcare expense
+T00936,2026-11-13,Transport,Petrol,474.66,Net Banking,Transportation expense
+T00937,2026-01-10,Bills,Mobile,862.95,UPI,Monthly bill
+T00938,2026-05-25,Shopping,Amazon,2372.8,Net Banking,Shopping expense
+T00939,2026-02-16,Food,Zomato,248.77,Net Banking,Food expense
+T00940,2026-08-04,Bills,Mobile,1452.83,Net Banking,Monthly bill
+T00941,2026-12-23,Entertainment,Games,1999.42,Cash,Entertainment expense
+T00942,2026-01-29,Transport,Ola,295.84,Net Banking,Transportation expense
+T00943,2026-04-03,Transport,Petrol,224.5,Cash,Transportation expense
+T00944,2026-03-04,Healthcare,Pharmacy,5852.67,Card,Healthcare expense
+T00945,2026-05-07,Healthcare,Hospital,4478.19,UPI,Healthcare expense
+T00946,2026-02-18,Bills,Water,2228.21,Card,Monthly bill
+T00947,2026-12-15,Travel,Travel Agency,14456.99,Cash,Travel expense
+T00948,2026-10-09,Shopping,Amazon,4311.13,Cash,Shopping expense
+T00949,2026-04-12,Travel,Hotel,6045.97,UPI,Travel expense
+T00950,2026-05-01,Bills,Electricity,2641.76,Cash,Monthly bill
+T00951,2026-05-22,Food,Zomato,734.86,Net Banking,Food expense
+T00952,2026-01-22,Bills,Electricity,2449.98,Net Banking,Monthly bill
+T00953,2026-02-15,Shopping,Myntra,2215.16,Net Banking,Shopping expense
+T00954,2026-11-17,Transport,Bus,97.65,Cash,Transportation expense
+T00955,2026-03-06,Shopping,Amazon,4056.39,Cash,Shopping expense
+T00956,2026-04-09,Entertainment,Games,151.25,Net Banking,Entertainment expense
+T00957,2026-05-09,Entertainment,Movie,2256.79,Net Banking,Entertainment expense
+T00958,2026-10-05,Travel,Hotel,10758.53,Card,Travel expense
+T00959,2026-06-15,Shopping,Myntra,5939.5,Cash,Shopping expense
+T00960,2026-09-29,Shopping,Amazon,1493.7,Cash,Shopping expense
+T00961,2026-08-21,Education,Book Store,203.46,Net Banking,Education expense
+T00962,2026-11-14,Shopping,Amazon,6897.59,Card,Shopping expense
+T00963,2026-12-04,Entertainment,Netflix,2421.19,Net Banking,Entertainment expense
+T00964,2026-10-10,Bills,Water,870.29,Cash,Monthly bill
+T00965,2026-11-25,Entertainment,Games,872.86,UPI,Entertainment expense
+T00966,2026-03-08,Transport,Uber,211.49,UPI,Transportation expense
+T00967,2026-09-06,Bills,Electricity,1008.98,UPI,Monthly bill
+T00968,2026-09-08,Healthcare,Clinic,3249.76,Cash,Healthcare expense
+T00969,2026-04-24,Food,Restaurant,758.67,UPI,Food expense
+T00970,2026-12-02,Food,Zomato,630.37,UPI,Food expense
+T00971,2026-07-04,Travel,IRCTC,8812.28,Net Banking,Travel expense
+T00972,2026-11-12,Entertainment,Netflix,737.96,UPI,Entertainment expense
+T00973,2026-02-09,Transport,Bus,946.82,UPI,Transportation expense
+T00974,2026-09-30,Transport,Ola,409.92,Card,Transportation expense
+T00975,2026-10-13,Bills,Internet,3072.02,Net Banking,Monthly bill
+T00976,2026-12-12,Transport,Bus,480.37,Net Banking,Transportation expense
+T00977,2026-04-03,Transport,Ola,567.97,Cash,Transportation expense
+T00978,2026-06-30,Shopping,Local Store,7249.13,Cash,Shopping expense
+T00979,2026-11-21,Entertainment,Games,1133.41,Cash,Entertainment expense
+T00980,2026-07-12,Bills,Internet,3133.12,Cash,Monthly bill
+T00981,2026-08-18,Entertainment,Games,2403.58,UPI,Entertainment expense
+T00982,2026-11-02,Food,Restaurant,98.26,Card,Food expense
+T00983,2026-06-03,Education,College,4925.09,Card,Education expense
+T00984,2026-12-20,Entertainment,Netflix,2073.61,Card,Entertainment expense
+T00985,2026-08-24,Transport,Uber,381.43,Card,Transportation expense
+T00986,2026-10-26,Education,Book Store,1399.31,Cash,Education expense
+T00987,2026-10-20,Education,College,2119.03,Card,Education expense
+T00988,2026-09-05,Transport,Bus,205.99,UPI,Transportation expense
+T00989,2026-10-23,Education,College,2031.42,UPI,Education expense
+T00990,2026-08-11,Entertainment,Spotify,1099.65,UPI,Entertainment expense
+T00991,2026-11-21,Bills,Electricity,3176.45,Net Banking,Monthly bill
+T00992,2026-09-26,Food,Restaurant,126.12,Card,Food expense
+T00993,2026-03-20,Entertainment,Movie,221.25,Net Banking,Entertainment expense
+T00994,2026-04-24,Travel,IRCTC,7047.1,Net Banking,Travel expense
+T00995,2026-06-22,Shopping,Flipkart,935.6,UPI,Shopping expense
+T00996,2026-02-13,Healthcare,Hospital,2511.46,Net Banking,Healthcare expense
+T00997,2026-09-04,Shopping,Flipkart,4606.58,Net Banking,Shopping expense
+T00998,2026-10-20,Healthcare,Clinic,1337.38,Card,Healthcare expense
+T00999,2026-05-17,Bills,Electricity,3174.06,Cash,Monthly bill
+T01000,2026-12-10,Transport,Uber,437.04,Cash,Transportation expense
+T01001,2026-06-14,Entertainment,Movie,926.86,UPI,Entertainment expense
+T01002,2026-06-29,Education,Udemy,3157.86,Net Banking,Education expense
+T01003,2026-01-23,Shopping,Local Store,7416.44,Card,Shopping expense
+T01004,2026-03-21,Bills,Mobile,3103.61,UPI,Monthly bill
+T01005,2026-05-05,Transport,Uber,950.98,Card,Transportation expense
+T01006,2026-06-25,Education,College,3530.22,UPI,Education expense
+T01007,2026-08-30,Education,Coursera,309.19,Card,Education expense
+T01008,2026-10-07,Bills,Internet,2236.08,Cash,Monthly bill
+T01009,2026-12-22,Travel,Flight,10782.57,UPI,Travel expense
+T01010,2026-12-06,Healthcare,Clinic,3255.43,Cash,Healthcare expense
+T01011,2026-05-26,Shopping,Amazon,1845.36,Cash,Shopping expense
+T01012,2026-12-02,Food,Cafe,1138.6,UPI,Food expense
+T01013,2026-05-19,Healthcare,Clinic,4045.29,Cash,Healthcare expense
+T01014,2026-05-30,Transport,Uber,872.71,Net Banking,Transportation expense
+T01015,2026-09-18,Bills,Water,3913.46,UPI,Monthly bill
+T01016,2026-11-02,Entertainment,Games,1375.75,Card,Entertainment expense
+T01017,2026-10-15,Bills,Water,3727.49,UPI,Monthly bill
+T01018,2026-09-29,Food,Zomato,421.52,Net Banking,Food expense
+T01019,2026-03-22,Healthcare,Clinic,306.56,Cash,Healthcare expense
+T01020,2026-05-01,Entertainment,Spotify,2490.39,Cash,Entertainment expense
+T01021,2026-07-18,Food,Restaurant,1077.25,UPI,Food expense
+T01022,2026-03-19,Education,Udemy,1840.57,Net Banking,Education expense
+T01023,2026-07-15,Shopping,Amazon,4309.53,Card,Shopping expense
+T01024,2026-10-21,Healthcare,Pharmacy,1085.95,Cash,Healthcare expense
+T01025,2026-10-05,Entertainment,Games,416.25,Card,Entertainment expense
+T01026,2026-06-08,Bills,Internet,2847.57,Card,Monthly bill
+T01027,2026-12-02,Healthcare,Pharmacy,5611.57,Card,Healthcare expense
+T01028,2026-10-13,Entertainment,Netflix,1379.11,UPI,Entertainment expense
+T01029,2026-03-16,Shopping,Myntra,5898.51,Cash,Shopping expense
+T01030,2026-06-05,Healthcare,Hospital,2769.43,Cash,Healthcare expense
+T01031,2026-02-24,Shopping,Flipkart,1312.9,UPI,Shopping expense
+T01032,2026-11-02,Education,Udemy,1314.48,UPI,Education expense
+T01033,2026-12-19,Entertainment,Netflix,1971.58,Card,Entertainment expense
+T01034,2026-04-05,Travel,Hotel,12929.81,Net Banking,Travel expense
+T01035,2026-03-25,Travel,Flight,3705.64,UPI,Travel expense
+T01036,2026-05-19,Healthcare,Pharmacy,5711.15,Card,Healthcare expense
+T01037,2026-02-03,Bills,Internet,955.19,Net Banking,Monthly bill
+T01038,2026-08-23,Travel,Hotel,13426.22,Net Banking,Travel expense
+T01039,2026-11-08,Healthcare,Pharmacy,4464.92,Net Banking,Healthcare expense
+T01040,2026-11-10,Entertainment,Games,2353.93,UPI,Entertainment expense
+T01041,2026-08-22,Transport,Petrol,833.93,UPI,Transportation expense
+T01042,2026-01-21,Bills,Water,2363.49,UPI,Monthly bill
+T01043,2026-08-14,Bills,Mobile,1772.75,Cash,Monthly bill
+T01044,2026-03-27,Education,Coursera,2227.82,UPI,Education expense
+T01045,2026-11-27,Shopping,Local Store,3778.08,UPI,Shopping expense
+T01046,2026-07-21,Shopping,Flipkart,3484.41,Net Banking,Shopping expense
+T01047,2026-08-21,Food,Zomato,741.15,Card,Food expense
+T01048,2026-05-09,Travel,IRCTC,5537.05,Card,Travel expense
+T01049,2026-02-28,Transport,Uber,717.98,Cash,Transportation expense
+T01050,2026-09-19,Transport,Petrol,627.59,Card,Transportation expense
+T01051,2026-07-14,Healthcare,Clinic,454.66,Card,Healthcare expense
+T01052,2026-03-25,Entertainment,Movie,2185.16,Card,Entertainment expense
+T01053,2026-06-07,Food,Cafe,426.66,Net Banking,Food expense
+T01054,2026-03-02,Education,Udemy,4513.0,Card,Education expense
+T01055,2026-01-07,Food,Restaurant,593.68,Net Banking,Food expense
+T01056,2026-05-02,Food,Cafe,322.9,Net Banking,Food expense
+T01057,2026-08-15,Travel,Travel Agency,2111.67,UPI,Travel expense
+T01058,2026-11-14,Bills,Mobile,2625.95,Card,Monthly bill
+T01059,2026-03-17,Food,Zomato,141.67,Cash,Food expense
+T01060,2026-01-17,Food,Zomato,827.04,Cash,Food expense
+T01061,2026-01-26,Entertainment,Netflix,361.33,Card,Entertainment expense
+T01062,2026-11-09,Shopping,Myntra,5389.12,Card,Shopping expense
+T01063,2026-01-19,Travel,Hotel,2303.77,Cash,Travel expense
+T01064,2026-07-14,Entertainment,Spotify,2068.64,Net Banking,Entertainment expense
+T01065,2026-08-30,Transport,Bus,169.16,Cash,Transportation expense
+T01066,2026-09-26,Entertainment,Games,603.63,Card,Entertainment expense
+T01067,2026-10-20,Food,Swiggy,897.3,UPI,Food expense
+T01068,2026-08-07,Travel,Hotel,9523.82,Cash,Travel expense
+T01069,2026-03-08,Education,Book Store,3148.59,Net Banking,Education expense
+T01070,2026-04-03,Travel,Travel Agency,13371.29,Card,Travel expense
+T01071,2026-01-01,Education,Udemy,767.39,Net Banking,Education expense
+T01072,2026-11-12,Transport,Ola,999.03,Net Banking,Transportation expense
+T01073,2026-06-29,Food,Restaurant,707.67,Card,Food expense
+T01074,2026-12-20,Food,Zomato,395.42,UPI,Food expense
+T01075,2026-09-17,Education,Book Store,2839.97,UPI,Education expense
+T01076,2026-06-24,Transport,Bus,420.21,UPI,Transportation expense
+T01077,2026-06-19,Shopping,Flipkart,6720.45,Net Banking,Shopping expense
+T01078,2026-11-27,Travel,IRCTC,2900.55,Card,Travel expense
+T01079,2026-08-25,Travel,Hotel,11975.85,Net Banking,Travel expense
+T01080,2026-10-17,Food,Restaurant,891.96,Cash,Food expense
+T01081,2026-10-23,Food,Zomato,847.75,Cash,Food expense
+T01082,2026-05-24,Transport,Ola,847.11,Cash,Transportation expense
+T01083,2026-10-01,Healthcare,Clinic,5085.95,Net Banking,Healthcare expense
+T01084,2026-06-07,Shopping,Amazon,5730.55,Cash,Shopping expense
+T01085,2026-07-31,Food,Restaurant,177.21,Card,Food expense
+T01086,2026-06-04,Entertainment,Games,618.74,Cash,Entertainment expense
+T01087,2026-07-11,Shopping,Amazon,6344.07,Card,Shopping expense
+T01088,2026-09-17,Transport,Petrol,63.94,Net Banking,Transportation expense
+T01089,2026-06-24,Shopping,Flipkart,7412.0,Cash,Shopping expense
+T01090,2026-02-20,Entertainment,Movie,2073.13,Card,Entertainment expense
+T01091,2026-08-24,Bills,Electricity,1734.08,UPI,Monthly bill
+T01092,2026-01-23,Food,Restaurant,849.5,UPI,Food expense
+T01093,2026-01-24,Entertainment,Games,347.45,Cash,Entertainment expense
+T01094,2026-11-24,Food,Restaurant,1079.19,Cash,Food expense
+T01095,2026-05-27,Bills,Internet,1323.6,Cash,Monthly bill
+T01096,2026-05-20,Travel,IRCTC,3090.49,Cash,Travel expense
+T01097,2026-11-15,Transport,Uber,577.24,UPI,Transportation expense
+T01098,2026-10-09,Bills,Mobile,1478.39,Card,Monthly bill
+T01099,2026-03-29,Education,Udemy,541.97,Cash,Education expense
+T01100,2026-03-08,Travel,IRCTC,1405.9,UPI,Travel expense
+T01101,2026-01-28,Transport,Petrol,122.67,Net Banking,Transportation expense
+T01102,2026-11-12,Shopping,Local Store,3038.31,Cash,Shopping expense
+T01103,2026-08-27,Bills,Electricity,2400.82,UPI,Monthly bill
+T01104,2026-08-22,Travel,IRCTC,5345.48,Net Banking,Travel expense
+T01105,2026-04-25,Travel,Flight,3012.1,Cash,Travel expense
+T01106,2026-04-04,Entertainment,Games,1779.08,Cash,Entertainment expense
+T01107,2026-09-07,Entertainment,Games,172.63,Net Banking,Entertainment expense
+T01108,2026-09-03,Transport,Bus,482.79,Card,Transportation expense
+T01109,2026-11-06,Education,Book Store,2958.46,UPI,Education expense
+T01110,2026-02-24,Healthcare,Clinic,2090.04,UPI,Healthcare expense
+T01111,2026-07-25,Education,Coursera,3034.57,Card,Education expense
+T01112,2026-09-04,Bills,Internet,1720.12,Cash,Monthly bill
+T01113,2026-08-11,Bills,Water,2398.68,Cash,Monthly bill
+T01114,2026-12-06,Bills,Internet,2777.54,Net Banking,Monthly bill
+T01115,2026-06-16,Transport,Petrol,572.88,Net Banking,Transportation expense
+T01116,2026-07-27,Shopping,Myntra,835.98,UPI,Shopping expense
+T01117,2026-09-11,Healthcare,Hospital,3940.94,UPI,Healthcare expense
+T01118,2026-03-13,Transport,Ola,891.77,UPI,Transportation expense
+T01119,2026-08-20,Shopping,Flipkart,4390.67,Net Banking,Shopping expense
+T01120,2026-04-16,Travel,Flight,10541.24,Cash,Travel expense
+T01121,2026-08-11,Education,Book Store,3645.4,Cash,Education expense
+T01122,2026-11-10,Transport,Uber,986.96,Net Banking,Transportation expense
+T01123,2026-02-01,Shopping,Myntra,3143.02,UPI,Shopping expense
+T01124,2026-02-26,Food,Restaurant,1044.6,UPI,Food expense
+T01125,2026-12-26,Bills,Water,2483.61,Cash,Monthly bill
+T01126,2026-07-15,Healthcare,Hospital,2724.1,Card,Healthcare expense
+T01127,2026-03-13,Shopping,Local Store,1749.35,Net Banking,Shopping expense
+T01128,2026-03-20,Entertainment,Games,792.33,Card,Entertainment expense
+T01129,2026-02-06,Shopping,Amazon,5292.6,Card,Shopping expense
+T01130,2026-03-11,Travel,Travel Agency,2185.29,Net Banking,Travel expense
+T01131,2026-11-16,Travel,Travel Agency,3517.16,Net Banking,Travel expense
+T01132,2026-07-01,Travel,Travel Agency,4160.37,Net Banking,Travel expense
+T01133,2026-05-02,Food,Cafe,877.59,Cash,Food expense
+T01134,2026-10-23,Healthcare,Clinic,2328.43,UPI,Healthcare expense
+T01135,2026-02-27,Travel,Hotel,9123.76,UPI,Travel expense
+T01136,2026-08-27,Shopping,Myntra,4280.51,UPI,Shopping expense
+T01137,2026-11-19,Bills,Water,3044.24,UPI,Monthly bill
+T01138,2026-06-25,Education,College,2768.16,UPI,Education expense
+T01139,2026-09-20,Travel,Travel Agency,13684.77,Cash,Travel expense
+T01140,2026-05-31,Healthcare,Hospital,1877.41,UPI,Healthcare expense
+T01141,2026-02-01,Education,Book Store,3220.64,Card,Education expense
+T01142,2026-11-16,Food,Restaurant,110.57,Net Banking,Food expense
+T01143,2026-09-16,Transport,Ola,113.79,Cash,Transportation expense
+T01144,2026-11-12,Education,Udemy,1548.67,Cash,Education expense
+T01145,2026-11-06,Food,Swiggy,275.57,Card,Food expense
+T01146,2026-03-31,Travel,Hotel,4657.54,Card,Travel expense
+T01147,2026-09-28,Travel,Flight,13068.2,Cash,Travel expense
+T01148,2026-11-01,Transport,Ola,936.58,Card,Transportation expense
+T01149,2026-07-16,Travel,Travel Agency,4331.26,Net Banking,Travel expense
+T01150,2026-10-23,Shopping,Flipkart,5954.58,Cash,Shopping expense
+T01151,2026-03-01,Food,Restaurant,138.83,Net Banking,Food expense
+T01152,2026-06-04,Healthcare,Hospital,2962.34,Card,Healthcare expense
+T01153,2026-12-28,Healthcare,Clinic,2462.41,Cash,Healthcare expense
+T01154,2026-01-07,Shopping,Local Store,2523.7,Net Banking,Shopping expense
+T01155,2026-06-11,Healthcare,Clinic,5778.22,UPI,Healthcare expense
+T01156,2026-08-10,Transport,Bus,626.07,Cash,Transportation expense
+T01157,2026-05-17,Entertainment,Spotify,2025.56,Cash,Entertainment expense
+T01158,2026-12-12,Healthcare,Hospital,4544.73,Card,Healthcare expense
+T01159,2026-06-10,Entertainment,Movie,1414.27,UPI,Entertainment expense
+T01160,2026-07-30,Transport,Uber,133.79,UPI,Transportation expense
+T01161,2026-04-23,Travel,Hotel,11153.51,Cash,Travel expense
+T01162,2026-01-13,Bills,Electricity,2591.77,UPI,Monthly bill
+T01163,2026-12-29,Bills,Electricity,3843.84,UPI,Monthly bill
+T01164,2026-12-03,Shopping,Local Store,6181.7,Card,Shopping expense
+T01165,2026-05-10,Transport,Ola,322.79,UPI,Transportation expense
+T01166,2026-08-07,Travel,Hotel,10691.1,Cash,Travel expense
+T01167,2026-02-07,Education,Udemy,1530.98,UPI,Education expense
+T01168,2026-06-20,Healthcare,Hospital,5976.56,Cash,Healthcare expense
+T01169,2026-08-14,Education,Udemy,533.11,Card,Education expense
+T01170,2026-11-27,Healthcare,Pharmacy,3053.93,Card,Healthcare expense
+T01171,2026-11-11,Healthcare,Pharmacy,3931.36,Net Banking,Healthcare expense
+T01172,2026-01-18,Education,College,550.01,Cash,Education expense
+T01173,2026-09-12,Travel,IRCTC,3083.96,UPI,Travel expense
+T01174,2026-05-17,Food,Cafe,249.8,Cash,Food expense
+T01175,2026-01-02,Healthcare,Clinic,3189.22,Net Banking,Healthcare expense
+T01176,2026-07-26,Travel,Travel Agency,12816.69,UPI,Travel expense
+T01177,2026-07-16,Bills,Electricity,3830.37,Net Banking,Monthly bill
+T01178,2026-06-20,Transport,Bus,694.56,Net Banking,Transportation expense
+T01179,2026-07-07,Food,Swiggy,678.78,Cash,Food expense
+T01180,2026-05-29,Transport,Petrol,661.88,Card,Transportation expense
+T01181,2026-12-05,Food,Cafe,293.92,Net Banking,Food expense
+T01182,2026-09-07,Transport,Bus,121.47,Net Banking,Transportation expense
+T01183,2026-01-19,Bills,Internet,1014.44,Card,Monthly bill
+T01184,2026-02-02,Travel,Travel Agency,12098.35,Cash,Travel expense
+T01185,2026-01-09,Travel,Travel Agency,1518.6,UPI,Travel expense
+T01186,2026-07-27,Entertainment,Netflix,383.65,Net Banking,Entertainment expense
+T01187,2026-02-06,Shopping,Flipkart,583.96,Card,Shopping expense
+T01188,2026-08-30,Travel,IRCTC,13700.5,UPI,Travel expense
+T01189,2026-01-08,Bills,Internet,937.32,UPI,Monthly bill
+T01190,2026-08-22,Education,College,3133.88,UPI,Education expense
+T01191,2026-09-12,Transport,Uber,611.18,Card,Transportation expense
+T01192,2026-08-07,Transport,Ola,363.85,Net Banking,Transportation expense
+T01193,2026-12-17,Entertainment,Netflix,1482.32,Card,Entertainment expense
+T01194,2026-01-24,Entertainment,Movie,1523.4,Cash,Entertainment expense
+T01195,2026-05-21,Transport,Uber,175.59,Net Banking,Transportation expense
+T01196,2026-10-11,Shopping,Myntra,1570.55,Card,Shopping expense
+T01197,2026-02-21,Food,Zomato,965.98,Net Banking,Food expense
+T01198,2026-09-07,Shopping,Amazon,921.56,UPI,Shopping expense
+T01199,2026-12-28,Shopping,Amazon,5318.52,Cash,Shopping expense
+T01200,2026-09-01,Healthcare,Clinic,4215.68,Card,Healthcare expense
+T01201,2026-09-25,Shopping,Myntra,3768.23,Card,Shopping expense
+T01202,2026-11-02,Shopping,Amazon,1686.0,Net Banking,Shopping expense
+T01203,2026-06-28,Transport,Bus,442.03,Card,Transportation expense
+T01204,2026-09-29,Bills,Electricity,3914.13,Cash,Monthly bill
+T01205,2026-11-17,Bills,Water,2739.51,Cash,Monthly bill
+T01206,2026-02-27,Food,Zomato,972.21,Net Banking,Food expense
+T01207,2026-03-23,Travel,Flight,10382.0,UPI,Travel expense
+T01208,2026-05-26,Food,Restaurant,314.74,Cash,Food expense
+T01209,2026-01-23,Entertainment,Games,350.61,UPI,Entertainment expense
+T01210,2026-01-15,Shopping,Flipkart,4034.97,UPI,Shopping expense
+T01211,2026-08-16,Transport,Ola,609.0,Cash,Transportation expense
+T01212,2026-12-13,Healthcare,Pharmacy,5410.56,Card,Healthcare expense
+T01213,2026-04-27,Transport,Bus,134.14,Net Banking,Transportation expense
+T01214,2026-04-23,Bills,Water,572.06,Net Banking,Monthly bill
+T01215,2026-03-16,Food,Cafe,322.1,Net Banking,Food expense
+T01216,2026-07-11,Shopping,Local Store,1350.32,Card,Shopping expense
+T01217,2026-04-14,Entertainment,Spotify,906.14,UPI,Entertainment expense
+T01218,2026-03-11,Food,Restaurant,204.44,Net Banking,Food expense
+T01219,2026-03-29,Travel,Travel Agency,11644.75,Card,Travel expense
+T01220,2026-11-23,Education,Udemy,4773.25,Card,Education expense
+T01221,2026-07-30,Bills,Electricity,3470.8,Net Banking,Monthly bill
+T01222,2026-08-25,Bills,Water,1332.93,Net Banking,Monthly bill
+T01223,2026-06-17,Bills,Internet,1906.72,Card,Monthly bill
+T01224,2026-08-02,Shopping,Amazon,7847.42,UPI,Shopping expense
+T01225,2026-08-06,Travel,IRCTC,8435.7,Net Banking,Travel expense
+T01226,2026-09-11,Transport,Petrol,270.89,UPI,Transportation expense
+T01227,2026-03-09,Healthcare,Pharmacy,2278.75,Card,Healthcare expense
+T01228,2026-09-03,Transport,Uber,682.27,Card,Transportation expense
+T01229,2026-08-21,Travel,IRCTC,7492.65,Card,Travel expense
+T01230,2026-07-09,Healthcare,Pharmacy,3835.5,UPI,Healthcare expense
+T01231,2026-12-20,Transport,Petrol,359.59,UPI,Transportation expense
+T01232,2026-05-19,Education,Coursera,3550.66,Card,Education expense
+T01233,2026-01-29,Transport,Bus,534.15,Cash,Transportation expense
+T01234,2026-07-16,Food,Swiggy,489.46,UPI,Food expense
+T01235,2026-03-31,Entertainment,Spotify,1655.61,UPI,Entertainment expense
+T01236,2026-06-21,Bills,Internet,1182.94,UPI,Monthly bill
+T01237,2026-04-26,Travel,Flight,5486.49,Cash,Travel expense
+T01238,2026-01-28,Healthcare,Hospital,567.54,Cash,Healthcare expense
+T01239,2026-09-14,Travel,Travel Agency,8373.56,UPI,Travel expense
+T01240,2026-08-20,Travel,Hotel,9693.32,UPI,Travel expense
+T01241,2026-02-14,Bills,Water,596.63,Card,Monthly bill
+T01242,2026-02-25,Education,College,990.88,UPI,Education expense
+T01243,2026-03-19,Shopping,Local Store,7037.45,UPI,Shopping expense
+T01244,2026-12-16,Education,Coursera,2798.89,Card,Education expense
+T01245,2026-08-04,Travel,Hotel,7214.04,UPI,Travel expense
+T01246,2026-02-02,Education,Udemy,305.78,Card,Education expense
+T01247,2026-10-24,Entertainment,Games,922.7,Cash,Entertainment expense
+T01248,2026-08-23,Travel,Travel Agency,5257.15,Card,Travel expense
+T01249,2026-05-14,Education,Udemy,1288.55,Cash,Education expense
+T01250,2026-03-17,Education,College,1894.98,Net Banking,Education expense
+T01251,2026-12-31,Shopping,Flipkart,4421.94,Card,Shopping expense
+T01252,2026-03-24,Shopping,Flipkart,2131.87,UPI,Shopping expense
+T01253,2026-08-14,Entertainment,Movie,724.98,Card,Entertainment expense
+T01254,2026-12-07,Bills,Electricity,1472.69,Cash,Monthly bill
+T01255,2026-08-18,Shopping,Myntra,4456.97,Card,Shopping expense
+T01256,2026-01-13,Education,College,2141.9,Net Banking,Education expense
+T01257,2026-06-13,Shopping,Local Store,1501.61,Cash,Shopping expense
+T01258,2026-05-29,Education,Coursera,4854.11,Card,Education expense
+T01259,2026-12-19,Travel,Hotel,2572.42,Net Banking,Travel expense
+T01260,2026-12-14,Food,Zomato,697.08,Cash,Food expense
+T01261,2026-11-13,Food,Cafe,1021.78,Net Banking,Food expense
+T01262,2026-06-17,Entertainment,Netflix,232.08,Card,Entertainment expense
+T01263,2026-04-11,Bills,Mobile,383.43,Net Banking,Monthly bill
+T01264,2026-04-10,Transport,Petrol,510.85,UPI,Transportation expense
+T01265,2026-03-17,Entertainment,Games,1818.31,Net Banking,Entertainment expense
+T01266,2026-07-10,Entertainment,Games,129.26,Cash,Entertainment expense
+T01267,2026-08-17,Entertainment,Spotify,2198.32,UPI,Entertainment expense
+T01268,2026-08-01,Bills,Water,3273.64,Cash,Monthly bill
+T01269,2026-08-01,Shopping,Local Store,1374.67,UPI,Shopping expense
+T01270,2026-06-05,Shopping,Flipkart,3954.52,Cash,Shopping expense
+T01271,2026-02-15,Transport,Petrol,46.35,Cash,Transportation expense
+T01272,2026-10-12,Healthcare,Pharmacy,2880.3,Card,Healthcare expense
+T01273,2026-07-15,Bills,Internet,1371.01,Net Banking,Monthly bill
+T01274,2026-10-27,Food,Restaurant,420.38,Net Banking,Food expense
+T01275,2026-01-02,Bills,Electricity,869.89,Cash,Monthly bill
+T01276,2026-12-01,Travel,IRCTC,10322.79,Cash,Travel expense
+T01277,2026-09-09,Healthcare,Pharmacy,5459.4,Card,Healthcare expense
+T01278,2026-05-22,Food,Swiggy,632.22,UPI,Food expense
+T01279,2026-10-17,Entertainment,Games,1146.56,Cash,Entertainment expense
+T01280,2026-07-11,Travel,IRCTC,8175.36,UPI,Travel expense
+T01281,2026-10-25,Education,Udemy,480.85,Cash,Education expense
+T01282,2026-07-02,Travel,Flight,3286.32,Cash,Travel expense
+T01283,2026-11-22,Entertainment,Games,2289.05,Cash,Entertainment expense
+T01284,2026-05-30,Food,Restaurant,673.17,UPI,Food expense
+T01285,2026-02-18,Bills,Internet,2515.42,Card,Monthly bill
+T01286,2026-12-17,Entertainment,Spotify,2019.71,Cash,Entertainment expense
+T01287,2026-10-01,Entertainment,Netflix,1492.11,Card,Entertainment expense
+T01288,2026-09-23,Food,Zomato,395.19,Net Banking,Food expense
+T01289,2026-03-25,Healthcare,Hospital,794.02,Card,Healthcare expense
+T01290,2026-10-14,Bills,Internet,2569.68,UPI,Monthly bill
+T01291,2026-02-09,Healthcare,Hospital,876.08,Card,Healthcare expense
+T01292,2026-06-28,Food,Cafe,428.96,Cash,Food expense
+T01293,2026-11-02,Shopping,Local Store,4328.03,Cash,Shopping expense
+T01294,2026-01-15,Shopping,Myntra,6032.34,UPI,Shopping expense
+T01295,2026-12-22,Bills,Internet,826.73,Card,Monthly bill
+T01296,2026-04-18,Education,Udemy,825.05,UPI,Education expense
+T01297,2026-02-27,Healthcare,Clinic,650.86,Net Banking,Healthcare expense
+T01298,2026-04-11,Healthcare,Pharmacy,825.34,UPI,Healthcare expense
+T01299,2026-05-10,Travel,IRCTC,1605.94,Cash,Travel expense
+T01300,2026-03-05,Food,Swiggy,1110.51,Card,Food expense
+T01301,2026-12-10,Bills,Internet,1600.67,UPI,Monthly bill
+T01302,2026-10-24,Shopping,Myntra,2978.34,Card,Shopping expense
+T01303,2026-02-20,Bills,Electricity,3332.47,UPI,Monthly bill
+T01304,2026-05-25,Bills,Internet,935.56,UPI,Monthly bill
+T01305,2026-09-16,Transport,Ola,857.24,Net Banking,Transportation expense
+T01306,2026-08-14,Entertainment,Movie,1716.46,UPI,Entertainment expense
+T01307,2026-07-14,Shopping,Myntra,3565.51,Card,Shopping expense
+T01308,2026-06-10,Healthcare,Pharmacy,916.97,UPI,Healthcare expense
+T01309,2026-07-04,Shopping,Local Store,5726.43,UPI,Shopping expense
+T01310,2026-09-10,Transport,Bus,151.09,Cash,Transportation expense
+T01311,2026-12-18,Travel,Hotel,14666.51,Net Banking,Travel expense
+T01312,2026-05-29,Bills,Water,3944.36,Net Banking,Monthly bill
+T01313,2026-09-01,Bills,Electricity,3774.6,Cash,Monthly bill
+T01314,2026-12-12,Shopping,Amazon,4085.69,UPI,Shopping expense
+T01315,2026-09-25,Healthcare,Hospital,4019.58,UPI,Healthcare expense
+T01316,2026-07-22,Transport,Ola,424.6,UPI,Transportation expense
+T01317,2026-07-06,Shopping,Amazon,7809.1,Cash,Shopping expense
+T01318,2026-03-04,Bills,Water,1161.62,Net Banking,Monthly bill
+T01319,2026-10-25,Travel,Hotel,9311.1,Net Banking,Travel expense
+T01320,2026-12-08,Entertainment,Games,1547.6,Net Banking,Entertainment expense
+T01321,2026-03-17,Travel,Hotel,11751.99,UPI,Travel expense
+T01322,2026-09-08,Transport,Bus,517.38,Card,Transportation expense
+T01323,2026-01-28,Food,Swiggy,1009.95,Net Banking,Food expense
+T01324,2026-07-15,Food,Zomato,757.13,Cash,Food expense
+T01325,2026-11-15,Shopping,Myntra,5098.89,UPI,Shopping expense
+T01326,2026-04-14,Travel,Travel Agency,5109.88,Net Banking,Travel expense
+T01327,2026-10-05,Travel,Hotel,5810.62,UPI,Travel expense
+T01328,2026-03-02,Food,Cafe,509.67,Cash,Food expense
+T01329,2026-08-24,Healthcare,Hospital,408.69,Card,Healthcare expense
+T01330,2026-09-09,Education,Udemy,2267.27,Cash,Education expense
+T01331,2026-02-26,Healthcare,Hospital,3499.36,Net Banking,Healthcare expense
+T01332,2026-10-15,Travel,Travel Agency,12960.92,UPI,Travel expense
+T01333,2026-09-11,Healthcare,Hospital,3628.06,Net Banking,Healthcare expense
+T01334,2026-06-14,Entertainment,Spotify,247.42,UPI,Entertainment expense
+T01335,2026-06-28,Shopping,Myntra,6533.56,UPI,Shopping expense
+T01336,2026-02-19,Entertainment,Games,1127.56,Cash,Entertainment expense
+T01337,2026-01-29,Healthcare,Hospital,4035.19,Card,Healthcare expense
+T01338,2026-10-31,Bills,Mobile,614.28,UPI,Monthly bill
+T01339,2026-06-22,Education,College,1014.94,Cash,Education expense
+T01340,2026-12-03,Food,Cafe,1046.97,Net Banking,Food expense
+T01341,2026-12-23,Education,College,2454.56,UPI,Education expense
+T01342,2026-10-20,Entertainment,Games,1036.72,UPI,Entertainment expense
+T01343,2026-12-20,Travel,IRCTC,10451.56,Cash,Travel expense
+T01344,2026-03-27,Travel,Hotel,9607.59,Cash,Travel expense
+T01345,2026-09-12,Healthcare,Pharmacy,3885.58,UPI,Healthcare expense
+T01346,2026-05-16,Bills,Mobile,475.87,Net Banking,Monthly bill
+T01347,2026-10-24,Bills,Electricity,650.51,Cash,Monthly bill
+T01348,2026-10-18,Education,College,4045.69,Net Banking,Education expense
+T01349,2026-06-27,Healthcare,Pharmacy,4814.78,Cash,Healthcare expense
+T01350,2026-12-06,Education,Coursera,2791.75,Card,Education expense
+T01351,2026-05-09,Healthcare,Hospital,3824.79,Net Banking,Healthcare expense
+T01352,2026-11-18,Shopping,Amazon,5715.65,Card,Shopping expense
+T01353,2026-12-05,Travel,Flight,14469.64,Net Banking,Travel expense
+T01354,2026-10-17,Education,Coursera,3687.75,UPI,Education expense
+T01355,2026-08-25,Bills,Mobile,846.65,Card,Monthly bill
+T01356,2026-07-30,Education,Coursera,1729.54,UPI,Education expense
+T01357,2026-05-17,Bills,Water,3347.73,Card,Monthly bill
+T01358,2026-07-27,Education,Udemy,1344.72,Card,Education expense
+T01359,2026-05-06,Bills,Electricity,3249.07,Cash,Monthly bill
+T01360,2026-10-14,Travel,Travel Agency,14878.1,Net Banking,Travel expense
+T01361,2026-03-23,Food,Zomato,385.44,UPI,Food expense
+T01362,2026-12-04,Education,Book Store,2843.39,UPI,Education expense
+T01363,2026-01-29,Travel,IRCTC,13034.18,UPI,Travel expense
+T01364,2026-02-02,Entertainment,Spotify,2261.38,Net Banking,Entertainment expense
+T01365,2026-07-23,Entertainment,Netflix,2363.59,Card,Entertainment expense
+T01366,2026-10-20,Bills,Electricity,3017.58,UPI,Monthly bill
+T01367,2026-02-16,Education,Coursera,1342.77,UPI,Education expense
+T01368,2026-10-27,Entertainment,Spotify,1869.37,Card,Entertainment expense
+T01369,2026-03-15,Healthcare,Pharmacy,819.52,Card,Healthcare expense
+T01370,2026-07-29,Education,Coursera,1420.67,UPI,Education expense
+T01371,2026-12-25,Travel,Hotel,14281.95,Cash,Travel expense
+T01372,2026-12-16,Healthcare,Hospital,1628.81,Cash,Healthcare expense
+T01373,2026-09-01,Shopping,Myntra,5810.67,Cash,Shopping expense
+T01374,2026-12-06,Food,Swiggy,974.81,UPI,Food expense
+T01375,2026-10-10,Bills,Mobile,1723.35,Cash,Monthly bill
+T01376,2026-08-15,Transport,Ola,412.93,Net Banking,Transportation expense
+T01377,2026-02-16,Education,Book Store,4694.35,Card,Education expense
+T01378,2026-03-24,Education,Udemy,4596.28,Cash,Education expense
+T01379,2026-05-21,Healthcare,Pharmacy,5225.38,Net Banking,Healthcare expense
+T01380,2026-06-20,Travel,Travel Agency,11043.4,UPI,Travel expense
+T01381,2026-09-17,Shopping,Myntra,811.03,Net Banking,Shopping expense
+T01382,2026-12-22,Entertainment,Games,165.64,UPI,Entertainment expense
+T01383,2026-11-25,Shopping,Local Store,1347.91,Net Banking,Shopping expense
+T01384,2026-06-10,Bills,Mobile,2430.49,UPI,Monthly bill
+T01385,2026-09-22,Shopping,Flipkart,5794.44,Card,Shopping expense
+T01386,2026-08-20,Healthcare,Hospital,2974.52,Card,Healthcare expense
+T01387,2026-12-18,Education,Udemy,3046.5,Cash,Education expense
+T01388,2026-02-13,Education,Udemy,2189.58,Card,Education expense
+T01389,2026-10-20,Healthcare,Hospital,1502.03,UPI,Healthcare expense
+T01390,2026-08-25,Bills,Electricity,1033.58,Card,Monthly bill
+T01391,2026-11-13,Food,Cafe,560.37,Cash,Food expense
+T01392,2026-07-08,Shopping,Amazon,1609.95,UPI,Shopping expense
+T01393,2026-08-21,Food,Cafe,1006.53,Net Banking,Food expense
+T01394,2026-04-15,Transport,Ola,222.92,Cash,Transportation expense
+T01395,2026-07-15,Education,Coursera,824.96,Card,Education expense
+T01396,2026-12-13,Bills,Mobile,1000.64,Card,Monthly bill
+T01397,2026-01-15,Healthcare,Pharmacy,1883.12,Cash,Healthcare expense
+T01398,2026-05-08,Bills,Water,1667.66,Net Banking,Monthly bill
+T01399,2026-08-29,Transport,Uber,167.88,Cash,Transportation expense
+T01400,2026-04-19,Healthcare,Clinic,4337.35,Net Banking,Healthcare expense
+T01401,2026-02-18,Education,College,2873.6,UPI,Education expense
+T01402,2026-08-30,Entertainment,Movie,2279.74,UPI,Entertainment expense
+T01403,2026-09-16,Food,Restaurant,774.02,Cash,Food expense
+T01404,2026-07-09,Healthcare,Clinic,966.98,UPI,Healthcare expense
+T01405,2026-03-28,Shopping,Myntra,4178.85,Cash,Shopping expense
+T01406,2026-02-15,Travel,Flight,5442.44,Net Banking,Travel expense
+T01407,2026-03-01,Shopping,Myntra,2712.18,Card,Shopping expense
+T01408,2026-07-04,Travel,Hotel,13967.32,Cash,Travel expense
+T01409,2026-09-22,Education,Book Store,1702.45,Card,Education expense
+T01410,2026-03-19,Entertainment,Games,1433.62,Net Banking,Entertainment expense
+T01411,2026-03-18,Food,Zomato,141.12,Card,Food expense
+T01412,2026-05-14,Food,Cafe,263.18,Net Banking,Food expense
+T01413,2026-09-11,Healthcare,Pharmacy,436.59,Cash,Healthcare expense
+T01414,2026-09-10,Travel,Travel Agency,2574.87,Card,Travel expense
+T01415,2026-02-17,Transport,Bus,235.58,Cash,Transportation expense
+T01416,2026-09-18,Shopping,Flipkart,6633.8,Card,Shopping expense
+T01417,2026-08-02,Food,Zomato,1110.86,Card,Food expense
+T01418,2026-06-18,Travel,IRCTC,1363.47,UPI,Travel expense
+T01419,2026-10-30,Healthcare,Hospital,5589.06,UPI,Healthcare expense
+T01420,2026-01-15,Entertainment,Movie,294.55,Net Banking,Entertainment expense
+T01421,2026-11-01,Travel,Hotel,10212.09,Cash,Travel expense
+T01422,2026-06-16,Food,Cafe,1141.11,Card,Food expense
+T01423,2026-11-26,Bills,Electricity,1346.93,UPI,Monthly bill
+T01424,2026-02-17,Transport,Petrol,422.9,Card,Transportation expense
+T01425,2026-02-15,Bills,Water,375.89,Card,Monthly bill
+T01426,2026-07-26,Shopping,Local Store,2494.01,Card,Shopping expense
+T01427,2026-09-09,Transport,Bus,809.06,Cash,Transportation expense
+T01428,2026-12-07,Shopping,Myntra,1040.06,Cash,Shopping expense
+T01429,2026-08-17,Bills,Water,3576.03,Net Banking,Monthly bill
+T01430,2026-02-16,Education,Coursera,3831.16,Cash,Education expense
+T01431,2026-11-19,Shopping,Local Store,3580.33,UPI,Shopping expense
+T01432,2026-12-13,Entertainment,Games,638.15,Card,Entertainment expense
+T01433,2026-05-29,Travel,IRCTC,7555.07,UPI,Travel expense
+T01434,2026-03-18,Travel,Hotel,14778.61,Cash,Travel expense
+T01435,2026-06-01,Bills,Water,2403.58,UPI,Monthly bill
+T01436,2026-09-19,Food,Swiggy,555.9,UPI,Food expense
+T01437,2026-07-01,Travel,Hotel,4568.04,UPI,Travel expense
+T01438,2026-12-05,Food,Swiggy,598.42,Card,Food expense
+T01439,2026-02-12,Healthcare,Pharmacy,2614.26,Cash,Healthcare expense
+T01440,2026-12-10,Entertainment,Games,1179.87,Cash,Entertainment expense
+T01441,2026-04-19,Entertainment,Movie,544.21,Cash,Entertainment expense
+T01442,2026-10-01,Transport,Petrol,57.2,Net Banking,Transportation expense
+T01443,2026-03-29,Transport,Uber,669.57,Net Banking,Transportation expense
+T01444,2026-11-05,Healthcare,Clinic,4410.29,Cash,Healthcare expense
+T01445,2026-06-04,Entertainment,Games,310.32,Card,Entertainment expense
+T01446,2026-02-27,Food,Zomato,993.88,Card,Food expense
+T01447,2026-09-04,Food,Zomato,806.46,Card,Food expense
+T01448,2026-10-03,Healthcare,Clinic,1307.3,Cash,Healthcare expense
+T01449,2026-08-31,Travel,Flight,6906.31,UPI,Travel expense
+T01450,2026-12-26,Shopping,Flipkart,3728.55,Net Banking,Shopping expense
+T01451,2026-08-19,Travel,IRCTC,9193.17,Card,Travel expense
+T01452,2026-01-27,Education,Coursera,1802.48,UPI,Education expense
+T01453,2026-09-11,Healthcare,Hospital,4475.05,Cash,Healthcare expense
+T01454,2026-07-24,Food,Cafe,624.43,Net Banking,Food expense
+T01455,2026-09-28,Bills,Electricity,370.37,Cash,Monthly bill
+T01456,2026-11-28,Transport,Bus,440.45,Net Banking,Transportation expense
+T01457,2026-11-15,Transport,Petrol,941.41,Cash,Transportation expense
+T01458,2026-01-11,Travel,Travel Agency,3258.67,Card,Travel expense
+T01459,2026-08-13,Travel,Hotel,4249.44,Card,Travel expense
+T01460,2026-03-09,Entertainment,Games,2219.62,Net Banking,Entertainment expense
+T01461,2026-12-01,Healthcare,Clinic,4460.59,Net Banking,Healthcare expense
+T01462,2026-05-25,Shopping,Flipkart,5618.37,UPI,Shopping expense
+T01463,2026-03-30,Travel,Flight,3792.78,Net Banking,Travel expense
+T01464,2026-09-10,Transport,Petrol,331.51,Card,Transportation expense
+T01465,2026-07-03,Food,Swiggy,1066.61,Cash,Food expense
+T01466,2026-09-15,Shopping,Flipkart,546.17,UPI,Shopping expense
+T01467,2026-02-28,Entertainment,Games,1582.15,UPI,Entertainment expense
+T01468,2026-05-13,Bills,Water,3976.55,Cash,Monthly bill
+T01469,2026-03-19,Food,Restaurant,1035.82,UPI,Food expense
+T01470,2026-08-23,Food,Cafe,1158.16,UPI,Food expense
+T01471,2026-10-15,Transport,Uber,80.29,UPI,Transportation expense
+T01472,2026-04-16,Shopping,Amazon,7314.59,Card,Shopping expense
+T01473,2026-09-17,Education,Coursera,2592.28,UPI,Education expense
+T01474,2026-06-21,Shopping,Myntra,6607.54,UPI,Shopping expense
+T01475,2026-08-01,Bills,Water,3146.11,UPI,Monthly bill
+T01476,2026-06-24,Bills,Water,1361.01,Card,Monthly bill
+T01477,2026-07-10,Transport,Bus,726.59,Net Banking,Transportation expense
+T01478,2026-03-19,Entertainment,Movie,1907.7,Net Banking,Entertainment expense
+T01479,2026-08-08,Bills,Internet,1829.61,Net Banking,Monthly bill
+T01480,2026-01-16,Travel,Hotel,7196.1,UPI,Travel expense
+T01481,2026-06-23,Transport,Uber,342.21,Card,Transportation expense
+T01482,2026-07-21,Healthcare,Pharmacy,4603.32,Card,Healthcare expense
+T01483,2026-08-03,Food,Restaurant,530.24,Cash,Food expense
+T01484,2026-01-05,Entertainment,Spotify,2084.81,Card,Entertainment expense
+T01485,2026-11-26,Healthcare,Hospital,1389.77,Net Banking,Healthcare expense
+T01486,2026-04-12,Entertainment,Games,2214.34,UPI,Entertainment expense
+T01487,2026-07-19,Food,Restaurant,892.11,Card,Food expense
+T01488,2026-02-17,Education,Udemy,2656.02,Cash,Education expense
+T01489,2026-01-12,Entertainment,Movie,166.94,Cash,Entertainment expense
+T01490,2026-08-05,Bills,Mobile,3951.73,UPI,Monthly bill
+T01491,2026-05-13,Food,Restaurant,782.23,Cash,Food expense
+T01492,2026-11-30,Transport,Uber,943.69,Net Banking,Transportation expense
+T01493,2026-08-21,Education,College,1827.11,Card,Education expense
+T01494,2026-06-03,Bills,Mobile,1352.78,Card,Monthly bill
+T01495,2026-05-07,Healthcare,Clinic,810.32,Card,Healthcare expense
+T01496,2026-02-20,Entertainment,Games,451.73,Net Banking,Entertainment expense
+T01497,2026-02-17,Healthcare,Pharmacy,560.72,Card,Healthcare expense
+T01498,2026-08-17,Travel,Flight,2093.02,Net Banking,Travel expense
+T01499,2026-10-27,Healthcare,Hospital,3093.2,Net Banking,Healthcare expense
+T01500,2026-08-02,Travel,Travel Agency,12533.37,Card,Travel expense
+T01501,2026-12-31,Shopping,Local Store,3824.39,UPI,Shopping expense
+T01502,2026-08-31,Bills,Water,420.65,Card,Monthly bill
+T01503,2026-11-05,Entertainment,Netflix,2145.56,UPI,Entertainment expense
+T01504,2026-10-20,Transport,Bus,318.01,Card,Transportation expense
+T01505,2026-06-06,Transport,Bus,991.38,Cash,Transportation expense
+T01506,2026-01-15,Education,Coursera,3997.78,Card,Education expense
+T01507,2026-06-06,Healthcare,Pharmacy,5356.53,Card,Healthcare expense
+T01508,2026-01-02,Shopping,Local Store,1241.92,Cash,Shopping expense
+T01509,2026-08-02,Transport,Uber,501.93,Cash,Transportation expense
+T01510,2026-07-13,Travel,Hotel,7653.19,Card,Travel expense
+T01511,2026-08-19,Shopping,Local Store,5437.6,Card,Shopping expense
+T01512,2026-11-16,Entertainment,Netflix,1694.81,Net Banking,Entertainment expense
+T01513,2026-07-22,Healthcare,Pharmacy,2166.19,UPI,Healthcare expense
+T01514,2026-11-27,Travel,Hotel,2239.42,Card,Travel expense
+T01515,2026-10-15,Food,Restaurant,802.58,UPI,Food expense
+T01516,2026-10-19,Bills,Electricity,2230.49,Net Banking,Monthly bill
+T01517,2026-12-04,Food,Swiggy,1128.52,Card,Food expense
+T01518,2026-04-16,Food,Restaurant,354.72,Net Banking,Food expense
+T01519,2026-07-25,Transport,Bus,605.34,Net Banking,Transportation expense
+T01520,2026-08-12,Food,Restaurant,282.17,UPI,Food expense
+T01521,2026-05-12,Entertainment,Games,318.46,UPI,Entertainment expense
+T01522,2026-03-15,Shopping,Myntra,1706.55,UPI,Shopping expense
+T01523,2026-07-28,Shopping,Myntra,5525.29,UPI,Shopping expense
+T01524,2026-01-14,Entertainment,Movie,1811.92,Cash,Entertainment expense
+T01525,2026-06-13,Healthcare,Pharmacy,1026.27,Cash,Healthcare expense
+T01526,2026-03-03,Education,Coursera,449.01,Card,Education expense
+T01527,2026-09-18,Bills,Water,3083.84,Net Banking,Monthly bill
+T01528,2026-02-01,Transport,Bus,345.6,Net Banking,Transportation expense
+T01529,2026-01-15,Transport,Petrol,431.19,Card,Transportation expense
+T01530,2026-10-11,Food,Restaurant,1159.09,UPI,Food expense
+T01531,2026-06-05,Bills,Internet,2402.51,Net Banking,Monthly bill
+T01532,2026-03-14,Transport,Ola,398.37,Card,Transportation expense
+T01533,2026-10-12,Bills,Water,1971.45,UPI,Monthly bill
+T01534,2026-12-01,Travel,Hotel,14609.15,UPI,Travel expense
+T01535,2026-05-20,Food,Cafe,749.61,Net Banking,Food expense
+T01536,2026-10-27,Entertainment,Movie,2117.64,Cash,Entertainment expense
+T01537,2026-10-01,Food,Zomato,710.65,Cash,Food expense
+T01538,2026-12-24,Transport,Petrol,158.06,Card,Transportation expense
+T01539,2026-04-18,Education,Coursera,3130.14,Cash,Education expense
+T01540,2026-12-29,Entertainment,Spotify,1186.52,Card,Entertainment expense
+T01541,2026-04-18,Entertainment,Spotify,1203.52,Cash,Entertainment expense
+T01542,2026-11-27,Food,Zomato,1112.93,Net Banking,Food expense
+T01543,2026-12-11,Food,Swiggy,274.36,Net Banking,Food expense
+T01544,2026-02-11,Healthcare,Clinic,4766.37,UPI,Healthcare expense
+T01545,2026-12-11,Food,Cafe,218.23,Net Banking,Food expense
+T01546,2026-04-01,Entertainment,Games,2113.95,UPI,Entertainment expense
+T01547,2026-07-09,Transport,Petrol,938.8,Net Banking,Transportation expense
+T01548,2026-01-11,Food,Zomato,929.43,Cash,Food expense
+T01549,2026-11-11,Bills,Electricity,2613.38,Card,Monthly bill
+T01550,2026-07-05,Bills,Water,436.15,Net Banking,Monthly bill
+T01551,2026-04-11,Bills,Electricity,3941.78,Net Banking,Monthly bill
+T01552,2026-10-19,Transport,Bus,520.31,Card,Transportation expense
+T01553,2026-02-03,Bills,Internet,2476.21,UPI,Monthly bill
+T01554,2026-10-19,Shopping,Myntra,6887.19,Cash,Shopping expense
+T01555,2026-12-21,Bills,Electricity,2807.62,Cash,Monthly bill
+T01556,2026-08-07,Travel,IRCTC,9973.53,UPI,Travel expense
+T01557,2026-07-28,Entertainment,Games,757.69,Net Banking,Entertainment expense
+T01558,2026-09-22,Travel,Hotel,11626.3,Card,Travel expense
+T01559,2026-08-04,Food,Restaurant,676.3,Cash,Food expense
+T01560,2026-04-10,Food,Cafe,454.87,UPI,Food expense
+T01561,2026-02-08,Bills,Water,3692.88,Card,Monthly bill
+T01562,2026-06-09,Shopping,Myntra,783.9,UPI,Shopping expense
+T01563,2026-08-10,Food,Cafe,985.03,Cash,Food expense
+T01564,2026-02-25,Education,Udemy,2473.17,Cash,Education expense
+T01565,2026-09-24,Food,Restaurant,969.4,UPI,Food expense
+T01566,2026-11-17,Travel,IRCTC,7250.39,UPI,Travel expense
+T01567,2026-01-18,Transport,Uber,402.3,UPI,Transportation expense
+T01568,2026-08-15,Shopping,Amazon,721.87,Net Banking,Shopping expense
+T01569,2026-12-13,Transport,Uber,93.56,UPI,Transportation expense
+T01570,2026-07-25,Education,Coursera,659.99,Net Banking,Education expense
+T01571,2026-08-21,Bills,Electricity,1720.5,Net Banking,Monthly bill
+T01572,2026-11-30,Transport,Bus,940.08,UPI,Transportation expense
+T01573,2026-10-28,Travel,Hotel,3694.74,UPI,Travel expense
+T01574,2026-10-31,Food,Swiggy,964.15,Card,Food expense
+T01575,2026-07-01,Shopping,Myntra,3541.75,Net Banking,Shopping expense
+T01576,2026-03-12,Shopping,Flipkart,6437.1,UPI,Shopping expense
+T01577,2026-10-27,Shopping,Myntra,3656.03,Cash,Shopping expense
+T01578,2026-03-17,Education,Udemy,2453.71,Cash,Education expense
+T01579,2026-01-05,Education,Book Store,2684.87,Card,Education expense
+T01580,2026-09-17,Food,Zomato,997.49,UPI,Food expense
+T01581,2026-04-11,Healthcare,Hospital,5863.76,Card,Healthcare expense
+T01582,2026-04-07,Transport,Bus,681.15,Net Banking,Transportation expense
+T01583,2026-11-12,Entertainment,Spotify,819.12,Cash,Entertainment expense
+T01584,2026-08-21,Shopping,Amazon,7046.01,UPI,Shopping expense
+T01585,2026-01-02,Travel,Flight,9942.74,Card,Travel expense
+T01586,2026-05-03,Travel,Flight,7730.45,Cash,Travel expense
+T01587,2026-07-24,Healthcare,Pharmacy,1268.62,UPI,Healthcare expense
+T01588,2026-02-07,Entertainment,Netflix,958.93,UPI,Entertainment expense
+T01589,2026-08-14,Shopping,Myntra,1796.91,Cash,Shopping expense
+T01590,2026-04-12,Food,Swiggy,301.56,Card,Food expense
+T01591,2026-03-31,Bills,Mobile,1557.32,Card,Monthly bill
+T01592,2026-01-12,Shopping,Flipkart,1655.8,Cash,Shopping expense
+T01593,2026-12-13,Transport,Uber,171.75,UPI,Transportation expense
+T01594,2026-06-06,Entertainment,Movie,1194.89,Cash,Entertainment expense
+T01595,2026-09-27,Entertainment,Movie,2445.04,Net Banking,Entertainment expense
+T01596,2026-03-15,Transport,Uber,887.41,Card,Transportation expense
+T01597,2026-09-30,Bills,Internet,1699.32,Cash,Monthly bill
+T01598,2026-11-22,Entertainment,Games,686.92,UPI,Entertainment expense
+T01599,2026-03-18,Bills,Mobile,1512.42,UPI,Monthly bill
+T01600,2026-09-18,Education,Udemy,4848.24,Net Banking,Education expense
+T01601,2026-08-29,Bills,Electricity,3226.69,UPI,Monthly bill
+T01602,2026-11-27,Shopping,Local Store,6083.75,Cash,Shopping expense
+T01603,2026-04-02,Travel,Travel Agency,5505.52,Cash,Travel expense
+T01604,2026-08-31,Travel,Travel Agency,4756.7,Net Banking,Travel expense
+T01605,2026-04-23,Food,Zomato,1082.27,Net Banking,Food expense
+T01606,2026-04-22,Bills,Water,1432.2,Net Banking,Monthly bill
+T01607,2026-05-11,Shopping,Myntra,4539.25,Card,Shopping expense
+T01608,2026-08-16,Transport,Bus,538.07,Card,Transportation expense
+T01609,2026-09-20,Food,Cafe,775.66,Net Banking,Food expense
+T01610,2026-08-10,Travel,Travel Agency,6725.34,Net Banking,Travel expense
+T01611,2026-07-15,Entertainment,Spotify,159.32,Net Banking,Entertainment expense
+T01612,2026-11-27,Bills,Mobile,580.79,UPI,Monthly bill
+T01613,2026-05-22,Education,College,4647.71,UPI,Education expense
+T01614,2026-07-04,Transport,Uber,76.75,Card,Transportation expense
+T01615,2026-12-12,Entertainment,Movie,890.18,Cash,Entertainment expense
+T01616,2026-12-28,Education,Udemy,3099.36,Card,Education expense
+T01617,2026-06-03,Education,College,1552.86,Cash,Education expense
+T01618,2026-10-24,Healthcare,Hospital,4595.28,UPI,Healthcare expense
+T01619,2026-07-23,Travel,Flight,4186.1,Card,Travel expense
+T01620,2026-09-22,Travel,Flight,9218.05,Net Banking,Travel expense
+T01621,2026-02-13,Travel,Hotel,5383.05,Card,Travel expense
+T01622,2026-08-02,Healthcare,Clinic,1415.59,Net Banking,Healthcare expense
+T01623,2026-03-13,Food,Restaurant,726.81,Card,Food expense
+T01624,2026-09-13,Education,College,4089.93,Cash,Education expense
+T01625,2026-08-03,Entertainment,Movie,1121.73,Net Banking,Entertainment expense
+T01626,2026-10-28,Education,Book Store,311.55,UPI,Education expense
+T01627,2026-06-19,Shopping,Flipkart,4675.07,Net Banking,Shopping expense
+T01628,2026-07-20,Healthcare,Pharmacy,569.51,Net Banking,Healthcare expense
+T01629,2026-02-25,Bills,Water,1516.71,Net Banking,Monthly bill
+T01630,2026-03-29,Education,College,700.7,Card,Education expense
+T01631,2026-01-14,Food,Cafe,289.1,UPI,Food expense
+T01632,2026-04-16,Healthcare,Hospital,1551.63,UPI,Healthcare expense
+T01633,2026-07-08,Travel,IRCTC,8259.44,Card,Travel expense
+T01634,2026-07-20,Entertainment,Games,476.89,UPI,Entertainment expense
+T01635,2026-09-02,Shopping,Local Store,6022.2,Net Banking,Shopping expense
+T01636,2026-04-16,Bills,Internet,1446.1,Net Banking,Monthly bill
+T01637,2026-10-28,Shopping,Myntra,1862.89,Net Banking,Shopping expense
+T01638,2026-01-04,Education,Udemy,4957.21,Net Banking,Education expense
+T01639,2026-11-06,Transport,Petrol,815.26,Cash,Transportation expense
+T01640,2026-08-25,Travel,Travel Agency,9065.86,UPI,Travel expense
+T01641,2026-06-27,Education,Coursera,3561.52,Cash,Education expense
+T01642,2026-03-31,Healthcare,Clinic,2607.31,Card,Healthcare expense
+T01643,2026-07-16,Healthcare,Hospital,5482.83,Card,Healthcare expense
+T01644,2026-12-24,Transport,Petrol,947.86,Card,Transportation expense
+T01645,2026-11-18,Shopping,Myntra,4440.58,UPI,Shopping expense
+T01646,2026-07-30,Bills,Water,3971.84,UPI,Monthly bill
+T01647,2026-02-23,Entertainment,Netflix,1310.55,Cash,Entertainment expense
+T01648,2026-03-26,Healthcare,Hospital,1666.05,UPI,Healthcare expense
+T01649,2026-02-07,Travel,IRCTC,9944.13,Net Banking,Travel expense
+T01650,2026-07-24,Healthcare,Hospital,5163.48,Net Banking,Healthcare expense
+T01651,2026-05-09,Food,Swiggy,208.44,Card,Food expense
+T01652,2026-09-06,Entertainment,Games,1207.26,UPI,Entertainment expense
+T01653,2026-03-13,Bills,Water,2041.91,Cash,Monthly bill
+T01654,2026-01-10,Shopping,Flipkart,4973.81,Card,Shopping expense
+T01655,2026-10-01,Education,College,3758.94,Card,Education expense
+T01656,2026-12-13,Transport,Uber,302.32,Net Banking,Transportation expense
+T01657,2026-04-21,Entertainment,Movie,1814.59,Card,Entertainment expense
+T01658,2026-11-22,Travel,IRCTC,12361.17,UPI,Travel expense
+T01659,2026-06-07,Healthcare,Clinic,2775.12,UPI,Healthcare expense
+T01660,2026-04-14,Food,Cafe,1120.28,Cash,Food expense
+T01661,2026-02-16,Bills,Internet,359.34,UPI,Monthly bill
+T01662,2026-04-09,Food,Restaurant,841.55,UPI,Food expense
+T01663,2026-12-07,Bills,Electricity,921.17,Card,Monthly bill
+T01664,2026-09-20,Food,Cafe,200.61,Cash,Food expense
+T01665,2026-11-16,Entertainment,Movie,597.09,Net Banking,Entertainment expense
+T01666,2026-04-29,Healthcare,Pharmacy,1439.92,Cash,Healthcare expense
+T01667,2026-01-08,Entertainment,Movie,1065.13,Cash,Entertainment expense
+T01668,2026-04-19,Food,Cafe,593.83,UPI,Food expense
+T01669,2026-01-23,Education,Book Store,523.19,Card,Education expense
+T01670,2026-11-03,Healthcare,Hospital,3097.54,UPI,Healthcare expense
+T01671,2026-02-18,Shopping,Myntra,4918.98,Net Banking,Shopping expense
+T01672,2026-03-31,Shopping,Myntra,5192.22,Cash,Shopping expense
+T01673,2026-06-21,Travel,IRCTC,1247.08,Net Banking,Travel expense
+T01674,2026-11-24,Healthcare,Clinic,4502.52,UPI,Healthcare expense
+T01675,2026-11-12,Bills,Electricity,3108.08,UPI,Monthly bill
+T01676,2026-08-08,Education,Udemy,3834.78,UPI,Education expense
+T01677,2026-07-11,Food,Zomato,638.57,Card,Food expense
+T01678,2026-04-15,Shopping,Local Store,5243.7,Card,Shopping expense
+T01679,2026-03-10,Travel,Hotel,4893.77,UPI,Travel expense
+T01680,2026-05-28,Healthcare,Clinic,4553.2,Card,Healthcare expense
+T01681,2026-05-05,Entertainment,Spotify,593.96,UPI,Entertainment expense
+T01682,2026-11-08,Bills,Internet,3529.01,Cash,Monthly bill
+T01683,2026-11-19,Shopping,Local Store,346.53,Net Banking,Shopping expense
+T01684,2026-01-27,Transport,Ola,648.99,Card,Transportation expense
+T01685,2026-02-16,Bills,Internet,942.6,Card,Monthly bill
+T01686,2026-08-07,Bills,Electricity,2982.46,Cash,Monthly bill
+T01687,2026-05-06,Shopping,Flipkart,3564.93,Card,Shopping expense
+T01688,2026-10-23,Education,Book Store,2351.7,Card,Education expense
+T01689,2026-02-10,Education,Coursera,4764.86,Cash,Education expense
+T01690,2026-03-27,Healthcare,Hospital,2930.14,Net Banking,Healthcare expense
+T01691,2026-09-04,Healthcare,Pharmacy,314.9,Net Banking,Healthcare expense
+T01692,2026-06-03,Healthcare,Pharmacy,3652.06,Card,Healthcare expense
+T01693,2026-07-14,Shopping,Myntra,3870.11,Net Banking,Shopping expense
+T01694,2026-10-15,Education,Coursera,3108.92,UPI,Education expense
+T01695,2026-08-29,Entertainment,Movie,569.72,Card,Entertainment expense
+T01696,2026-09-14,Food,Swiggy,898.01,Cash,Food expense
+T01697,2026-08-01,Travel,Travel Agency,14163.99,Cash,Travel expense
+T01698,2026-06-07,Healthcare,Hospital,3918.08,UPI,Healthcare expense
+T01699,2026-03-05,Healthcare,Pharmacy,2431.99,Card,Healthcare expense
+T01700,2026-05-11,Bills,Water,3153.7,Cash,Monthly bill
+T01701,2026-12-23,Travel,Hotel,1807.86,Net Banking,Travel expense
+T01702,2026-05-07,Healthcare,Clinic,1605.65,UPI,Healthcare expense
+T01703,2026-12-24,Entertainment,Netflix,1697.62,Card,Entertainment expense
+T01704,2026-12-15,Education,Coursera,907.36,Card,Education expense
+T01705,2026-03-01,Shopping,Amazon,6236.49,Net Banking,Shopping expense
+T01706,2026-10-28,Healthcare,Clinic,5850.04,UPI,Healthcare expense
+T01707,2026-03-26,Bills,Water,3370.07,Cash,Monthly bill
+T01708,2026-10-28,Education,Coursera,1678.3,Net Banking,Education expense
+T01709,2026-11-22,Transport,Uber,589.71,Cash,Transportation expense
+T01710,2026-04-18,Shopping,Myntra,7461.13,Net Banking,Shopping expense
+T01711,2026-03-28,Education,College,4118.67,UPI,Education expense
+T01712,2026-12-23,Transport,Uber,441.13,Net Banking,Transportation expense
+T01713,2026-03-29,Education,Coursera,1046.73,Card,Education expense
+T01714,2026-09-07,Shopping,Flipkart,1701.28,UPI,Shopping expense
+T01715,2026-04-06,Travel,Flight,3813.17,Card,Travel expense
+T01716,2026-07-29,Bills,Mobile,1930.7,UPI,Monthly bill
+T01717,2026-05-31,Shopping,Amazon,959.94,UPI,Shopping expense
+T01718,2026-06-25,Education,College,342.4,Card,Education expense
+T01719,2026-12-11,Travel,Travel Agency,11647.47,UPI,Travel expense
+T01720,2026-01-04,Food,Restaurant,825.16,UPI,Food expense
+T01721,2026-09-25,Transport,Ola,800.12,Net Banking,Transportation expense
+T01722,2026-08-31,Education,Coursera,3833.18,Net Banking,Education expense
+T01723,2026-12-16,Entertainment,Spotify,2236.37,Cash,Entertainment expense
+T01724,2026-12-07,Bills,Mobile,1774.34,UPI,Monthly bill
+T01725,2026-02-21,Entertainment,Spotify,107.4,Net Banking,Entertainment expense
+T01726,2026-11-05,Shopping,Amazon,1246.29,Cash,Shopping expense
+T01727,2026-08-20,Bills,Mobile,2587.9,Net Banking,Monthly bill
+T01728,2026-04-07,Healthcare,Clinic,218.15,Cash,Healthcare expense
+T01729,2026-01-24,Food,Restaurant,1165.95,Cash,Food expense
+T01730,2026-11-07,Travel,Flight,7783.51,UPI,Travel expense
+T01731,2026-09-01,Entertainment,Games,2468.49,UPI,Entertainment expense
+T01732,2026-11-07,Healthcare,Hospital,1331.45,Card,Healthcare expense
+T01733,2026-09-12,Food,Zomato,972.44,Cash,Food expense
+T01734,2026-08-17,Travel,Flight,14370.72,Net Banking,Travel expense
+T01735,2026-04-19,Bills,Internet,930.6,UPI,Monthly bill
+T01736,2026-01-15,Transport,Petrol,193.83,Cash,Transportation expense
+T01737,2026-04-23,Healthcare,Hospital,4371.21,Net Banking,Healthcare expense
+T01738,2026-10-01,Transport,Ola,648.21,Net Banking,Transportation expense
+T01739,2026-04-25,Transport,Bus,934.51,UPI,Transportation expense
+T01740,2026-07-15,Entertainment,Games,1669.41,Net Banking,Entertainment expense
+T01741,2026-05-13,Bills,Internet,728.05,UPI,Monthly bill
+T01742,2026-06-24,Transport,Uber,750.96,Card,Transportation expense
+T01743,2026-03-07,Transport,Bus,859.2,Net Banking,Transportation expense
+T01744,2026-02-01,Food,Restaurant,740.87,Card,Food expense
+T01745,2026-06-13,Healthcare,Hospital,4673.43,Card,Healthcare expense
+T01746,2026-07-22,Bills,Electricity,334.0,Net Banking,Monthly bill
+T01747,2026-06-01,Entertainment,Movie,2109.32,Net Banking,Entertainment expense
+T01748,2026-11-04,Travel,Flight,4967.5,UPI,Travel expense
+T01749,2026-09-15,Entertainment,Spotify,2476.8,UPI,Entertainment expense
+T01750,2026-11-20,Education,Coursera,4177.7,Net Banking,Education expense
+T01751,2026-01-31,Education,Coursera,4909.49,Cash,Education expense
+T01752,2026-04-26,Shopping,Flipkart,5693.14,UPI,Shopping expense
+T01753,2026-07-20,Shopping,Local Store,2603.08,Card,Shopping expense
+T01754,2026-06-22,Food,Cafe,553.13,Net Banking,Food expense
+T01755,2026-07-20,Entertainment,Games,272.38,Cash,Entertainment expense
+T01756,2026-12-25,Education,Udemy,4310.01,Net Banking,Education expense
+T01757,2026-06-15,Transport,Ola,762.18,UPI,Transportation expense
+T01758,2026-12-02,Education,Coursera,985.73,Card,Education expense
+T01759,2026-05-30,Travel,Travel Agency,13561.05,Card,Travel expense
+T01760,2026-11-30,Bills,Internet,333.79,UPI,Monthly bill
+T01761,2026-08-07,Shopping,Local Store,5531.73,Card,Shopping expense
+T01762,2026-07-02,Food,Swiggy,1171.06,Card,Food expense
+T01763,2026-09-21,Food,Swiggy,808.11,Net Banking,Food expense
+T01764,2026-05-06,Shopping,Local Store,561.74,Card,Shopping expense
+T01765,2026-06-04,Healthcare,Hospital,4190.31,Card,Healthcare expense
+T01766,2026-12-10,Healthcare,Clinic,4019.41,Net Banking,Healthcare expense
+T01767,2026-11-20,Healthcare,Hospital,3988.53,Cash,Healthcare expense
+T01768,2026-03-01,Food,Swiggy,172.55,Net Banking,Food expense
+T01769,2026-10-28,Bills,Electricity,2420.03,Net Banking,Monthly bill
+T01770,2026-10-31,Education,College,1069.26,Net Banking,Education expense
+T01771,2026-10-20,Healthcare,Hospital,926.37,Cash,Healthcare expense
+T01772,2026-07-27,Transport,Ola,820.35,UPI,Transportation expense
+T01773,2026-10-02,Healthcare,Clinic,4744.15,Net Banking,Healthcare expense
+T01774,2026-04-17,Transport,Uber,967.05,UPI,Transportation expense
+T01775,2026-01-03,Shopping,Flipkart,4571.36,Cash,Shopping expense
+T01776,2026-03-07,Transport,Uber,592.08,Card,Transportation expense
+T01777,2026-01-18,Transport,Bus,121.23,UPI,Transportation expense
+T01778,2026-10-06,Education,Book Store,1023.7,UPI,Education expense
+T01779,2026-01-24,Bills,Mobile,3800.99,Cash,Monthly bill
+T01780,2026-10-23,Travel,Flight,7866.2,Cash,Travel expense
+T01781,2026-12-19,Entertainment,Movie,337.62,UPI,Entertainment expense
+T01782,2026-04-07,Bills,Electricity,824.17,Card,Monthly bill
+T01783,2026-10-30,Shopping,Flipkart,3064.8,Card,Shopping expense
+T01784,2026-10-09,Healthcare,Pharmacy,1678.81,Net Banking,Healthcare expense
+T01785,2026-08-22,Shopping,Local Store,941.06,Cash,Shopping expense
+T01786,2026-03-15,Healthcare,Clinic,3308.25,UPI,Healthcare expense
+T01787,2026-07-10,Education,Udemy,2905.48,Card,Education expense
+T01788,2026-06-11,Healthcare,Pharmacy,5956.2,Net Banking,Healthcare expense
+T01789,2026-11-06,Healthcare,Pharmacy,1635.49,Cash,Healthcare expense
+T01790,2026-12-17,Transport,Uber,566.43,UPI,Transportation expense
+T01791,2026-07-05,Entertainment,Netflix,2282.19,Cash,Entertainment expense
+T01792,2026-05-21,Shopping,Flipkart,375.95,Net Banking,Shopping expense
+T01793,2026-02-23,Bills,Water,3196.11,UPI,Monthly bill
+T01794,2026-10-29,Shopping,Myntra,6624.34,Net Banking,Shopping expense
+T01795,2026-12-25,Transport,Bus,589.27,Cash,Transportation expense
+T01796,2026-01-25,Education,College,1019.59,Net Banking,Education expense
+T01797,2026-12-14,Shopping,Myntra,7753.6,Net Banking,Shopping expense
+T01798,2026-05-13,Travel,Flight,1132.96,Card,Travel expense
+T01799,2026-07-13,Shopping,Flipkart,4670.22,Cash,Shopping expense
+T01800,2026-12-29,Food,Restaurant,950.83,Net Banking,Food expense
+T01801,2026-08-13,Travel,Flight,14807.45,Net Banking,Travel expense
+T01802,2026-08-08,Education,Book Store,2698.85,Card,Education expense
+T01803,2026-06-06,Education,College,2151.27,Cash,Education expense
+T01804,2026-02-09,Transport,Uber,740.75,UPI,Transportation expense
+T01805,2026-02-13,Shopping,Amazon,6024.25,Net Banking,Shopping expense
+T01806,2026-12-13,Food,Cafe,649.72,Card,Food expense
+T01807,2026-09-21,Travel,Travel Agency,10591.71,UPI,Travel expense
+T01808,2026-11-12,Healthcare,Pharmacy,1303.07,UPI,Healthcare expense
+T01809,2026-10-01,Healthcare,Clinic,4548.07,Card,Healthcare expense
+T01810,2026-03-28,Food,Cafe,835.46,Card,Food expense
+T01811,2026-07-07,Shopping,Amazon,6763.45,Cash,Shopping expense
+T01812,2026-09-11,Food,Cafe,504.59,Cash,Food expense
+T01813,2026-12-14,Transport,Bus,279.77,UPI,Transportation expense
+T01814,2026-09-05,Education,Book Store,1609.02,Card,Education expense
+T01815,2026-04-22,Food,Cafe,1113.82,UPI,Food expense
+T01816,2026-01-30,Travel,Travel Agency,5980.42,Net Banking,Travel expense
+T01817,2026-07-01,Entertainment,Spotify,357.19,Cash,Entertainment expense
+T01818,2026-07-01,Shopping,Local Store,368.25,Net Banking,Shopping expense
+T01819,2026-02-13,Travel,Flight,8407.35,Card,Travel expense
+T01820,2026-09-07,Healthcare,Pharmacy,240.08,Cash,Healthcare expense
+T01821,2026-07-22,Bills,Water,1684.95,Cash,Monthly bill
+T01822,2026-10-02,Healthcare,Pharmacy,4906.95,UPI,Healthcare expense
+T01823,2026-03-24,Travel,Travel Agency,2958.24,Net Banking,Travel expense
+T01824,2026-12-30,Food,Restaurant,302.28,Card,Food expense
+T01825,2026-03-10,Education,College,2093.82,Cash,Education expense
+T01826,2026-12-08,Food,Zomato,302.87,Net Banking,Food expense
+T01827,2026-08-04,Education,College,2547.53,Net Banking,Education expense
+T01828,2026-07-24,Shopping,Myntra,4164.31,Net Banking,Shopping expense
+T01829,2026-02-25,Shopping,Amazon,6403.89,Card,Shopping expense
+T01830,2026-09-14,Shopping,Myntra,405.1,Card,Shopping expense
+T01831,2026-08-08,Food,Restaurant,1173.61,UPI,Food expense
+T01832,2026-05-29,Healthcare,Hospital,1836.9,UPI,Healthcare expense
+T01833,2026-11-13,Healthcare,Pharmacy,1084.48,Card,Healthcare expense
+T01834,2026-02-28,Bills,Mobile,3497.42,Card,Monthly bill
+T01835,2026-08-31,Healthcare,Pharmacy,4297.47,UPI,Healthcare expense
+T01836,2026-10-30,Shopping,Flipkart,5142.59,Card,Shopping expense
+T01837,2026-03-09,Bills,Electricity,1784.75,Cash,Monthly bill
+T01838,2026-08-07,Bills,Internet,365.35,Card,Monthly bill
+T01839,2026-07-14,Transport,Uber,431.01,Cash,Transportation expense
+T01840,2026-06-22,Bills,Internet,1876.48,UPI,Monthly bill
+T01841,2026-01-27,Healthcare,Clinic,1964.88,Cash,Healthcare expense
+T01842,2026-06-29,Entertainment,Spotify,1807.81,Card,Entertainment expense
+T01843,2026-04-04,Entertainment,Netflix,198.13,UPI,Entertainment expense
+T01844,2026-05-27,Entertainment,Movie,1232.94,UPI,Entertainment expense
+T01845,2026-05-10,Healthcare,Pharmacy,5700.3,Cash,Healthcare expense
+T01846,2026-02-27,Entertainment,Spotify,332.53,UPI,Entertainment expense
+T01847,2026-07-04,Shopping,Myntra,6007.95,Cash,Shopping expense
+T01848,2026-11-29,Entertainment,Movie,762.27,Net Banking,Entertainment expense
+T01849,2026-03-08,Transport,Uber,644.38,UPI,Transportation expense
+T01850,2026-04-09,Food,Zomato,869.22,UPI,Food expense
+T01851,2026-06-04,Transport,Bus,736.34,Card,Transportation expense
+T01852,2026-03-07,Shopping,Amazon,1776.14,Cash,Shopping expense
+T01853,2026-08-18,Entertainment,Spotify,1611.68,UPI,Entertainment expense
+T01854,2026-09-05,Healthcare,Pharmacy,2630.22,UPI,Healthcare expense
+T01855,2026-12-23,Shopping,Myntra,7749.65,Cash,Shopping expense
+T01856,2026-12-22,Food,Swiggy,293.01,Net Banking,Food expense
+T01857,2026-03-26,Travel,IRCTC,7128.43,Net Banking,Travel expense
+T01858,2026-11-07,Healthcare,Hospital,1774.67,Card,Healthcare expense
+T01859,2026-10-20,Food,Zomato,323.94,UPI,Food expense
+T01860,2026-06-05,Travel,Hotel,12934.65,Cash,Travel expense
+T01861,2026-03-29,Education,College,1274.86,Card,Education expense
+T01862,2026-11-24,Education,College,911.07,Cash,Education expense
+T01863,2026-01-27,Shopping,Myntra,5246.58,Card,Shopping expense
+T01864,2026-01-01,Bills,Electricity,2699.99,Cash,Monthly bill
+T01865,2026-12-28,Entertainment,Netflix,2221.57,Cash,Entertainment expense
+T01866,2026-11-10,Shopping,Local Store,2570.69,UPI,Shopping expense
+T01867,2026-04-23,Food,Restaurant,898.13,Cash,Food expense
+T01868,2026-01-09,Shopping,Myntra,4437.89,UPI,Shopping expense
+T01869,2026-05-12,Healthcare,Clinic,5246.15,Card,Healthcare expense
+T01870,2026-06-16,Travel,Flight,4763.11,Net Banking,Travel expense
+T01871,2026-04-29,Shopping,Local Store,5919.55,Net Banking,Shopping expense
+T01872,2026-09-03,Entertainment,Movie,324.86,Card,Entertainment expense
+T01873,2026-04-01,Travel,Flight,3644.04,Net Banking,Travel expense
+T01874,2026-01-11,Shopping,Myntra,2688.23,Card,Shopping expense
+T01875,2026-11-08,Healthcare,Clinic,1289.52,Card,Healthcare expense
+T01876,2026-05-06,Transport,Petrol,476.82,Net Banking,Transportation expense
+T01877,2026-01-07,Transport,Ola,619.16,Net Banking,Transportation expense
+T01878,2026-02-26,Healthcare,Pharmacy,4994.06,UPI,Healthcare expense
+T01879,2026-02-12,Shopping,Flipkart,2360.95,UPI,Shopping expense
+T01880,2026-10-05,Food,Swiggy,904.47,Cash,Food expense
+T01881,2026-03-13,Transport,Ola,501.21,Net Banking,Transportation expense
+T01882,2026-06-19,Shopping,Myntra,3987.59,Card,Shopping expense
+T01883,2026-11-18,Food,Restaurant,688.85,UPI,Food expense
+T01884,2026-10-06,Food,Swiggy,412.35,Net Banking,Food expense
+T01885,2026-04-25,Shopping,Amazon,484.81,Net Banking,Shopping expense
+T01886,2026-06-30,Healthcare,Pharmacy,4001.11,Card,Healthcare expense
+T01887,2026-02-27,Healthcare,Clinic,3052.56,UPI,Healthcare expense
+T01888,2026-05-25,Bills,Electricity,1622.04,Cash,Monthly bill
+T01889,2026-02-13,Transport,Bus,899.76,Card,Transportation expense
+T01890,2026-09-29,Shopping,Local Store,2878.3,Card,Shopping expense
+T01891,2026-12-08,Healthcare,Pharmacy,4185.53,Cash,Healthcare expense
+T01892,2026-05-19,Entertainment,Netflix,2298.96,Cash,Entertainment expense
+T01893,2026-01-02,Education,College,4336.23,Card,Education expense
+T01894,2026-03-17,Shopping,Myntra,3307.62,Net Banking,Shopping expense
+T01895,2026-10-23,Transport,Uber,450.36,Cash,Transportation expense
+T01896,2026-06-15,Shopping,Amazon,7959.74,Card,Shopping expense
+T01897,2026-06-13,Healthcare,Hospital,3066.4,Net Banking,Healthcare expense
+T01898,2026-11-22,Healthcare,Clinic,2134.1,Card,Healthcare expense
+T01899,2026-10-09,Healthcare,Hospital,3083.19,Net Banking,Healthcare expense
+T01900,2026-02-12,Bills,Water,2449.57,Net Banking,Monthly bill
+T01901,2026-05-01,Bills,Electricity,1638.32,Card,Monthly bill
+T01902,2026-10-13,Food,Restaurant,610.8,Card,Food expense
+T01903,2026-06-28,Transport,Uber,386.42,Card,Transportation expense
+T01904,2026-03-15,Education,Coursera,4209.21,Net Banking,Education expense
+T01905,2026-04-25,Bills,Internet,506.7,Card,Monthly bill
+T01906,2026-07-13,Transport,Ola,743.76,Net Banking,Transportation expense
+T01907,2026-12-26,Entertainment,Netflix,354.42,UPI,Entertainment expense
+T01908,2026-01-16,Travel,Flight,3056.41,Card,Travel expense
+T01909,2026-02-09,Transport,Ola,51.98,Net Banking,Transportation expense
+T01910,2026-08-29,Shopping,Flipkart,6025.4,Cash,Shopping expense
+T01911,2026-06-22,Travel,Travel Agency,7215.63,UPI,Travel expense
+T01912,2026-03-21,Education,College,488.0,UPI,Education expense
+T01913,2026-01-06,Shopping,Flipkart,3352.21,Net Banking,Shopping expense
+T01914,2026-10-20,Travel,Hotel,8026.21,Card,Travel expense
+T01915,2026-05-20,Healthcare,Pharmacy,5844.11,Net Banking,Healthcare expense
+T01916,2026-07-25,Shopping,Flipkart,5066.64,Card,Shopping expense
+T01917,2026-10-14,Healthcare,Pharmacy,3709.48,UPI,Healthcare expense
+T01918,2026-06-10,Travel,Travel Agency,10137.8,Net Banking,Travel expense
+T01919,2026-01-28,Healthcare,Pharmacy,4859.37,Net Banking,Healthcare expense
+T01920,2026-02-25,Bills,Mobile,686.28,Cash,Monthly bill
+T01921,2026-05-03,Entertainment,Netflix,777.3,UPI,Entertainment expense
+T01922,2026-11-02,Transport,Ola,50.54,Cash,Transportation expense
+T01923,2026-11-23,Bills,Internet,3738.05,Card,Monthly bill
+T01924,2026-10-19,Education,College,2911.02,Net Banking,Education expense
+T01925,2026-06-11,Food,Swiggy,184.4,Cash,Food expense
+T01926,2026-05-25,Food,Restaurant,1153.79,Card,Food expense
+T01927,2026-07-02,Entertainment,Games,2437.24,UPI,Entertainment expense
+T01928,2026-09-15,Entertainment,Games,342.41,Card,Entertainment expense
+T01929,2026-09-02,Food,Cafe,736.72,UPI,Food expense
+T01930,2026-03-19,Education,Udemy,3475.4,UPI,Education expense
+T01931,2026-04-21,Transport,Ola,815.18,Card,Transportation expense
+T01932,2026-08-18,Shopping,Myntra,6347.21,Cash,Shopping expense
+T01933,2026-11-16,Education,Book Store,4308.57,Net Banking,Education expense
+T01934,2026-05-03,Food,Cafe,313.88,UPI,Food expense
+T01935,2026-02-19,Shopping,Local Store,6496.39,Card,Shopping expense
+T01936,2026-09-13,Education,College,651.75,Cash,Education expense
+T01937,2026-03-24,Shopping,Myntra,824.85,Cash,Shopping expense
+T01938,2026-02-06,Entertainment,Netflix,530.05,Net Banking,Entertainment expense
+T01939,2026-05-12,Education,Coursera,3863.1,Net Banking,Education expense
+T01940,2026-10-19,Shopping,Amazon,4059.59,Cash,Shopping expense
+T01941,2026-07-29,Education,Coursera,4313.6,Card,Education expense
+T01942,2026-09-20,Travel,Hotel,12827.7,Cash,Travel expense
+T01943,2026-12-16,Entertainment,Netflix,1091.67,Net Banking,Entertainment expense
+T01944,2026-11-14,Education,College,4891.67,UPI,Education expense
+T01945,2026-03-21,Bills,Electricity,3456.32,Cash,Monthly bill
+T01946,2026-10-19,Healthcare,Pharmacy,2515.83,UPI,Healthcare expense
+T01947,2026-08-25,Bills,Water,2775.86,Cash,Monthly bill
+T01948,2026-11-25,Travel,Travel Agency,8491.62,Net Banking,Travel expense
+T01949,2026-04-03,Transport,Uber,742.51,Net Banking,Transportation expense
+T01950,2026-07-25,Healthcare,Pharmacy,2106.58,Cash,Healthcare expense
+T01951,2026-04-19,Entertainment,Games,1785.5,Net Banking,Entertainment expense
+T01952,2026-08-21,Transport,Bus,76.75,Card,Transportation expense
+T01953,2026-11-24,Travel,Flight,3988.58,UPI,Travel expense
+T01954,2026-07-05,Healthcare,Pharmacy,4779.44,Net Banking,Healthcare expense
+T01955,2026-04-19,Bills,Electricity,3511.68,Net Banking,Monthly bill
+T01956,2026-11-22,Education,Book Store,1045.31,Card,Education expense
+T01957,2026-07-27,Transport,Bus,118.44,Net Banking,Transportation expense
+T01958,2026-04-20,Healthcare,Clinic,4083.94,Cash,Healthcare expense
+T01959,2026-02-17,Shopping,Amazon,7191.17,Net Banking,Shopping expense
+T01960,2026-03-26,Entertainment,Spotify,576.65,Net Banking,Entertainment expense
+T01961,2026-10-02,Travel,Travel Agency,10643.63,Card,Travel expense
+T01962,2026-12-21,Healthcare,Hospital,3507.84,UPI,Healthcare expense
+T01963,2026-12-08,Bills,Electricity,2440.41,Card,Monthly bill
+T01964,2026-01-08,Entertainment,Spotify,461.22,Net Banking,Entertainment expense
+T01965,2026-06-12,Shopping,Local Store,1174.77,Net Banking,Shopping expense
+T01966,2026-08-19,Education,College,4727.95,Card,Education expense
+T01967,2026-01-19,Travel,IRCTC,4060.72,Card,Travel expense
+T01968,2026-10-07,Healthcare,Clinic,4691.43,Net Banking,Healthcare expense
+T01969,2026-04-18,Bills,Mobile,3823.79,UPI,Monthly bill
+T01970,2026-01-09,Entertainment,Spotify,824.67,Cash,Entertainment expense
+T01971,2026-11-29,Transport,Petrol,999.09,Net Banking,Transportation expense
+T01972,2026-06-30,Healthcare,Hospital,5003.48,Net Banking,Healthcare expense
+T01973,2026-04-01,Entertainment,Netflix,1201.18,Cash,Entertainment expense
+T01974,2026-10-05,Shopping,Flipkart,3656.25,Cash,Shopping expense
+T01975,2026-05-26,Healthcare,Clinic,4272.14,UPI,Healthcare expense
+T01976,2026-02-15,Transport,Uber,663.64,Net Banking,Transportation expense
+T01977,2026-11-16,Transport,Petrol,930.14,UPI,Transportation expense
+T01978,2026-12-08,Travel,IRCTC,5058.66,Net Banking,Travel expense
+T01979,2026-08-21,Bills,Internet,2340.88,UPI,Monthly bill
+T01980,2026-03-05,Bills,Water,1597.27,Net Banking,Monthly bill
+T01981,2026-12-27,Healthcare,Clinic,4750.88,Net Banking,Healthcare expense
+T01982,2026-04-25,Food,Restaurant,648.47,Cash,Food expense
+T01983,2026-08-01,Education,Book Store,3431.84,UPI,Education expense
+T01984,2026-01-08,Healthcare,Pharmacy,352.23,Cash,Healthcare expense
+T01985,2026-03-29,Entertainment,Spotify,2401.99,Net Banking,Entertainment expense
+T01986,2026-04-09,Bills,Water,2580.19,Net Banking,Monthly bill
+T01987,2026-03-07,Food,Cafe,1132.12,Net Banking,Food expense
+T01988,2026-06-12,Shopping,Local Store,4283.03,Net Banking,Shopping expense
+T01989,2026-12-30,Bills,Electricity,3264.34,UPI,Monthly bill
+T01990,2026-05-14,Healthcare,Clinic,5056.56,Card,Healthcare expense
+T01991,2026-02-17,Entertainment,Movie,323.84,Net Banking,Entertainment expense
+T01992,2026-01-15,Food,Zomato,772.27,UPI,Food expense
+T01993,2026-03-08,Healthcare,Pharmacy,5903.8,Cash,Healthcare expense
+T01994,2026-12-01,Shopping,Flipkart,7213.9,Cash,Shopping expense
+T01995,2026-07-13,Bills,Internet,3150.45,UPI,Monthly bill
+T01996,2026-03-15,Education,College,3211.7,UPI,Education expense
+T01997,2026-11-02,Transport,Petrol,157.78,Card,Transportation expense
+T01998,2026-04-03,Education,Book Store,645.33,Net Banking,Education expense
+T01999,2026-07-20,Entertainment,Movie,341.61,UPI,Entertainment expense
+T02000,2026-09-07,Healthcare,Pharmacy,5763.46,UPI,Healthcare expense
+T02001,2026-03-15,Food,Restaurant,25000.0,Card,Unusually high food expense
+T02002,2026-05-20,Shopping,Amazon,75000.0,Card,Unusually high shopping expense
+T02003,2026-07-11,Transport,Uber,18000.0,UPI,Unusually high transport expense
+T02004,2026-09-05,Entertainment,Games,30000.0,Card,Unusually high entertainment expense
+T02005,2026-11-22,Food,Restaurant,22000.0,UPI,Unusually high food expense
